@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Abaot"
 ---
 
-About this site
+Websaet ia hemi soemaot ol risos long saed blo Vatlongos lanwis.
 
-```{r}
-1 + 1
-```
+Eleanor Ridge, wan linguist long Massey University long New Zealand i lukaotem websaet ia.
