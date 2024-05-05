@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Vatlongos Websaet"
+  page-footer: 
+    left: "Copyright 2024, Eleanor Ridge"
   navbar:
     background: primary
     search: true
