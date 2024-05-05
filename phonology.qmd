@@ -24,8 +24,29 @@ I gat ol difren kaen consonant we yumi mekem wetem difren stael, mo lo difren pl
 
 Bae yumi stat wetem /p/ /t/ /k/ from trifala ia yumi mekem lo sem fasin nomo: yumi stopem ea wantaem, afta yumi lego air bakagen mo taem we yumi lego air bakagen, i mekem wan bigfala saon wantaem.
 
-Traem talem /p/ be putum han blo yu lo fored blo fes blo yu. Bae yu harem se i no gat ea, afta bigfala air i kamaot wantaem nomo. Lo English mifala talem se ol saon ia \'stop consonants\'.
+Traem talem /p/ be putum han blo yu lo fored blo fes blo yu. Bae yu harem se i no gat ea, afta bigfala air i kamaot wantaem nomo. Lo English mifala talem se ol saon ia 'stop consonants'.
 
 Tri saon ia i difren nomo lo ples lo maot we yumi stopem air olsem. /p/ yumi stopem air lo tufala lips blo yumi. /t/ yu stapem air lo fored lo tang. Mo /k/ yu stapem air lo bak blo tang blo yu, antap lo ruf blo maot blo yu.
 
 Traem mekem trifala naoia mo harem se lips mo tang blo yu i stap wea taem we yu mekem.
+
+![Ol stap konsonant long Vatlongos](img/StopConsonants.jpg)
+
+Blo raetem trifala saon ia i isi nomo from ol saon ia klosap i semak lo Bislama mo English tu, mo yumi save yusum ol sem leta nomo: \<p\> \<t\> \<k\>. From spelling system blo English i no gud tumas, samtaem bae yu luk saon ia /k/ oli raetem \<c\>. Sam samting i difren smol lo Vatlongos. Samtaem we yumi talem /t/, yumi putum fored blo tang blo yumi i tajem bihaen lo tut blo yumi, be fulap taem lo English ol man oli putum fored blo tang blo olgeta antap lo ruf blo maot bihaen lo ol tut. Mi no mekem tumas risoj lo ol difrens olsem yet be mi hop se bae mi mekem sam risoj olsem lo fuja.
+
+| Sound | Letter | Examples                        |
+|-------|--------|---------------------------------|
+| p     | **p**      | **p**at, sa**p**, lasu**pp**ang, taa**pp**in    |
+| t     | **t**      | **t**ei, pa**t**, ke**tt**eh, lu**tt**eong      |
+| k     | **k**      | **k**aa**k**au, xia**k**, mi**kk**as, **k**o**kk**orong |
+
+: Leta blong stop konsonant mo eksampol
+
+## Konsonant blong nos
+
+Section ia bae i tokabaot tri difren consonant bakagen, /m/ /n/ /ŋ/ (symbol ia /ŋ/ hemi wan symbol blo International Phonetic Alphabet we ol linguist oli stap yusum blo soemaot evri saon we hemi posibol lo evri lanwis lo world, be nomali yumi raetem <ng>).
+
+Ol saon ia klosap i semak lo /p/ /t/ /k/ we yumi lanem las wik: yu stopem air we i go lo maot lo yu lo sem ples nomo: /m/ yu stopem wetem lips blo yu olsem /p/, /n/ yu stapem wetem fored blo tang blo yu olsem /t/, mo /ŋ/ yu stapem wetem bak blo tang blo yu olsem /k/. Traem talem /t/, /n/, /t/, /n/, bae yu harem se tang blo yu i stap muv lo sem fasin evritaem. 
+
+![Ol stap konsonant long Vatlongos](img/NasalConsonants.jpg)
+
