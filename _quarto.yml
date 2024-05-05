@@ -3,23 +3,40 @@ project:
   output-dir: docs
 
 website:
-  title: "VatlongosWebsite"
+  title: "Vatlongos Websaet"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
-        text: Hom
-      - about.qmd
+        text: "Hom"
+      - href: about.qmd
+        text: "Abaot"
       - href: grammar.qmd
-        text: Gramma
+        text: "Gramma"
         
   sidebar:
     - title: "Gramma"
       style: "docked"
       background: light
       contents:
+        - grammar.qmd
         - href: phonology.qmd
           text: Saon mo speling
-
+          
+    - title: "Hom"
+      style: "docked"
+      background: light
+      contents:
+        - index.qmd
+        
+        
+    - title: "Abaot"
+      style: "docked"
+      background: light
+      contents:
+        - about.qmd
+        
 format:
   html:
     theme: sandstone
