@@ -17,7 +17,7 @@ website:
       background: light
       contents:
         - href: phonology.qmd
-          text: Ol saon mo speling
+          text: Saon mo speling
 
 format:
   html:
