@@ -3,8 +3,7 @@ title: "Saon mo speling"
 format:
   html:
     toc: true
-    toc-float: false
-    toc-location: left-body
+    toc-location: body
     toc-depth: 4
     number-sections: true
 ---
