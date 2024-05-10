@@ -4,6 +4,14 @@ title: "Vatlongos Websaet"
 
 Websaet ia hemi blong ol risos long Vatlongos lanwis blo Saot-Is Ambrim, long Vanuatu.
 
-This is a Quarto website.
+Naoia men risos hemi wan buk blo gramma we mi stap apdetem.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Ol seksen {.unnumbered .unlisted}
+
+[Gramma](grammar.qmd)
+
+Website ia hemi wan Quarto website.
+
+Blong lanem moa long saed blong Quarto, folem link ia: <https://quarto.org/docs/websites>.
+
+
