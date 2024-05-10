@@ -4,7 +4,8 @@ format:
   html:
     toc: true
     toc-float: true
-    toc-location: right-body
+    toc-location: left-body
+    toc-depth: 4
     number-sections: true
 ---
 
@@ -18,7 +19,7 @@ Tu bae yumi yusum wan special alphabet we ol linguist i talemaot 'International 
 
 Bae yumi tokbaoat ol consonant festaem, afta ol vowel, mo soemaot from wanem oli ol difdifren saon lo Vatlongos. Neks bae yumi tokabaot ol saon blo Bislama mo Inglis we i save kam insaed lo Vatlongos, mo laswan bae yumi tokabaot hao ol saon i save kam tugeta insaed lo ol syllable, we hemi olsem wan bit insaed lo lanwis.
 
-# Ol konsonant
+## Ol konsonant {#sec-konsonant}
 
 Vatlongos hemi gat 15 saon we oli ol konsonant.
 
@@ -26,7 +27,7 @@ Konsonant hemi gat wan mining lo linguistik we i minim ol saon we yu blokem o ri
 
 I gat ol difren kaen consonant we yumi mekem wetem difren stael, mo lo difren ples blo maot.
 
-## Ol stop
+### Ol stop {#sec-stop}
 
 Bae yumi stat wetem /p/ /t/ /k/ from trifala ia yumi mekem lo sem fasin nomo: yumi stopem ea wantaem, afta yumi lego air bakagen mo taem we yumi lego air bakagen, i mekem wan bigfala saon wantaem.
 
@@ -48,7 +49,7 @@ Blo raetem trifala saon ia i isi nomo from ol saon ia klosap i semak lo Bislama 
 
 : Leta blong stop konsonant mo eksampol
 
-## Ol konsonant blong nos
+### Ol konsonant blong nos {#sec-nasal}
 
 Section ia bae i tokabaot tri difren consonant bakagen, /m/ /n/ /ŋ/ (symbol ia /ŋ/ hemi wan symbol blo International Phonetic Alphabet we ol linguist oli stap yusum blo soemaot evri saon we hemi posibol lo evri lanwis lo world, be nomali yumi raetem <ng>).
 
@@ -65,7 +66,7 @@ Blo raetem ol saon ia tu i no had tumas, from ol saon ia i stap lo Bislama mo En
 Wan samting nomo we sam man i no laekem, hemi se yumi yusum tufala leta wantaem \<n\> wetem \<g\> blo raetem wan saon nomo /ŋ/. Saon ia hemi no /n/ afta /g/, hemi wan saon nomo we yu mekem lo nose blo yu olsem /n/, be wetem bak blo tang blo yu olsem /g/. From we samtaem man i wantem holtaet lo rul ia se yu sud gat wan leta blo wan saon, ol man lo Fiji mo fulap narafala ples lo Pacific, oli raetem saon ia witem \<q\>, from olgeta mo yumi no stap yusum leta ia \<q\> lo alphabet blo yumi. Mi ting se bae yumi holtaet lo spelling ia \<ng\>, be sipos fulap blo yufala wantem jenisem i go lo \<q\> hem tu i posibol.
 
 | Saon | Leta   | Eksampol                                                        |
-|------|--------|-----------------------------------------------------------------|
+|----------------|----------------|-----------------------------------------|
 | m    | **m**  | **m**ahis, **m**ahulong, xa**m**e**m**, a**mm**ei               |
 | n    | **n**  | **n**i, **n**ahou, bie**n**, **n**a**nn**emi, **n**asepi**nn**i |
 | ŋ    | **ng** | **ng**anak, a**ng**, eisi**ng**, mi**ngng**el                   |
@@ -74,7 +75,7 @@ Wan samting nomo we sam man i no laekem, hemi se yumi yusum tufala leta wantaem 
 
 Ating yumi saonem ol saon ia klosap i semak lo English nomo, be wan samting we hemi difren, hemi se lo English yu no save putum saon ia /ŋ/ lo fored blo word o syllable, i mas kam bihaen nomo. Hemi wan rison we ol man we oli toktok English oli mestem fulap taem lo Vatlongos mo Bislama. I mekem se i isi lo man we i save English blo talem *eising* 'klos' be i had blo talem *nganak* 'hemia'.
 
-## Ol stap blo nos
+### Ol stap blo nos {#sec-prenasalisedstop}
 
 Lo seksen ia bae mi tokabaot 3 consonants ia /mb/ /nd/ /ŋɡ/.
 
@@ -100,7 +101,7 @@ Insaed lo wok we mi bin mekem finis mi bin yusum \<b\> \<d\> \<g\> nomo. Taem we
 
 : Leta blong ol stop blo nos mo ol eksampol
 
-## Ol friksen konsonant
+### Ol friksen konsonant {#sec-fricative}
 
 Lo seksen ia bae mi tokabaot fo consonants we oli /v/ /s/ /x/ /h/.
 
@@ -127,7 +128,7 @@ Blo raetem ol saon ia, \<s\> mo \<h\> i isi nomo from i semak lo Bislama mo Engl
 
 Wan samting we i difren blo saon ia /h/ lo lanwis taem yu lukluk lo English, hemi se lo English saon ia /h/ hemi no save stap lo en blo wan word o syllable, be lo Vatlongos hemi stap lo en blo word o syllable fulap taem.
 
-### Ol difren rod blo talem /v/
+#### Ol difren rod blo talem v {#sec-v}
 
 Saon ia /v/ mi bin talem finis se i gat sam difren rod blo talem:
 
@@ -143,7 +144,7 @@ Trifala saon ia i no gat rule lo hem, i jas stap lo wanwan man lo wanwan taem se
 
 Be i gat wan nara saon blo hem we hemi \[p\]:
 
-4\) \[p\] we yumi [lukluk finis](phonology.qmd#Ol%20stop) yu yusum tufala lips blo yu (olsem \[β\]) be yu no mekem wetem friksen, be yu mekem olsem wan stop nomo: yu blokem ea bihaen lo lips blo yu afta yu letemaot wantaem nomo.
+4\) \[p\] we yumi lukluk finis (@sec-stop), yu yusum tufala lips blo yu (olsem \[β\]) be yu no mekem wetem friksen, be yu mekem olsem wan stop nomo: yu blokem ea bihaen lo lips blo yu afta yu letemaot wantaem nomo.
 
 Be saon ia \[p\] hemi kamaot nomo taem we /v/ hemi stap lo en blo wan wod o silabol.
 
@@ -162,7 +163,7 @@ Be sipos yumi wantem se evritaem we yumi mekem saon ia \[p\] spelling i semak no
 | v, β, \[p\] | v, p | venu, vahe, tuvava, nduva, ndup |
 | p           | p    | pat, sap, lasuppang, taappin    |
 
-### Ol difren rod blo talem /x/
+#### Ol difren rod blo talem x {#sec-x}
 
 Yumi luk finis se saon ia /x/ hemi wan saon we yu mekem wetem friction lo bak blo tang blo yu. Be /x/ hemi wan saon we yumi gat fulap difren rod blo talem.
 
@@ -178,7 +179,7 @@ Ol voiced saon \[ɣ\] \[ʁ\] \[ʀ\] i hapen nomo taem we i saon ia stap lo stat 
 
 Be taem we i stap lo en blo syllable i mas stap olsem \[x\] o \[χ\], o samtaem i kam olsem \[k\] -- wan stop saon we yumi lukluk finis. Hemi from wanem yumi luk sam word olsem *saxaras* 'no save', we taem we yu karemaot wan vowel lo hem *sax\[a\]ras* i kam olsem *sakras*. Hemi from taem we yu karemaot vowel ia, /x/ i stap lo en blo syllable, mo yumi save pronaonsem olsem \[k\] nomo.
 
-Rod blo talem saon ia /x/ olsem \[k\] i mekem sem kwestun lo saed blo spelling we yumi luk wetem /v/ mo \[p\] [finis](phonology.qmd#Ol%20difren%20rod%20blo%20talem%20/v/) -- bae yumi raetem \<x\> evritaem, o bae yumi raetem witem \<k\> taem we i saon olsem \[k\]? Sipos yumi raetem wetem \<x\> evritaem, hemi olsem wan sistem blo speling we hemi 'deep'. Sipos yumi raetem \<k\> taem we saon i olsem \[k\], hemi wan sistem blo speling we hemi 'shallow'.
+Rod blo talem saon ia /x/ olsem \[k\] i mekem sem kwestun lo saed blo spelling we yumi luk wetem /v/ mo \[p\] (@sec-v) -- bae yumi raetem \<x\> evritaem, o bae yumi raetem witem \<k\> taem we i saon olsem \[k\]? Sipos yumi raetem wetem \<x\> evritaem, hemi olsem wan sistem blo speling we hemi 'deep'. Sipos yumi raetem \<k\> taem we saon i olsem \[k\], hemi wan sistem blo speling we hemi 'shallow'.
 
 From ol saon ia i no stap lo English o Bislama, mi faenem se i had lelbet lo mi blo save gud wanem rod we man i yusum evritaem. Samtaem we mi toktok Vatlongos mi ting se mi talem \[h\] nomo we i no stret rod blo talem saon ia. Mi karem fulap information blo saon ia long wan article we Gary J. Parker i raetem lo 1968: *Southeast Ambrym Phonology.* Yu save ridim article ia lo [link ia](https://www.jstor.org/stable/3622894) be hemi yusum fulap technical terminology we i had lelbet blo ridim save.
 
