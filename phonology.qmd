@@ -478,7 +478,7 @@ Lo tebol ia mi soemaot sam difren system blo raetem vowel ia, mo mi soemaot eni 
 
 : Ol difren joes blong raetem nambasiks vaol æ, wetem ol eksampol
 
-### Ol longfala vaol {#sec:longvowel}
+### Ol longfala vaol {#sec-longvowel}
 
 Yumi luk finis se i gat 6 vowel lo Vatlongos, we tang i stap lo difren ples lo maot blo yu.
 
@@ -517,16 +517,97 @@ Blo save sua se ol longfala vowel ia i difren lo ol sot vowel, i mas faenem tufa
 
 Difrens ia hemi veri important lo mining blo sam word olsem:
 
-*latapat* 'sam i slip' 
-*lataapat* 'olgeta i no slip'
+*latapat* 'sam i slip' *lataapat* 'olgeta i no slip'
 
 Nomali, blo *lataapat*, bae yu putum *ti* lo end blo hem tu blo soemaot se hemi negative, be lo Endu sam olfala i no putum *ti* olsem. Tu mi save talem *latapat ti* blo talem se 'sam i slip lelbet'.
 
-*latapat ti* 'sam i slip smol'
-*lataapat ti* 'olgeta i no slip'
+*latapat ti* 'sam i slip smol' *lataapat ti* 'olgeta i no slip'
 
 Kaen difrens olsem i soemaot se difrens lo saon ia hemi veri important, mo i gud sipos yumi soemaot difrens ia lo spelling tu, wetem dabol letter olsem.
 
 ### Ol vaol mo ol glaed {#sec-glide}
 
+I gat tu vowel saon we i gat difren rod blo talemaot we i dipen lo ol narafala saon lo rod. /i/ samtaem yumi talem olsem \[j\] -- saon we yumi raet witem \<y\> lo English mo Bislama. Mo /u/ samtaem yumi talem olsem \[w\].
 
+Hemi difren lelbet from tufala difren rod blo talem ia oli no tru vowel, but tufala i wan kaen consonant we yumi save talem 'glide' or 'semi vowel' (i.e. haf vaol). Lo English mo Bislama, i gat consonant saon olsem: /j/ we yumi raetem witem \<y\>, e.g. *yes, yellow*, mo /w/ \<w\>, e.g. *wota*, *woman*. Be lo Vatlongos tufala saon ia i jas wan difren rod blo talemaot tufala vowel /i/ mo /u/. Nomali, taem we i gat wan vowel yu mekem wan niufala syllable, be taem we i saon olsem \[j\] mo \[w\], hemi jas stap insaed lo wan narafala syllable, hemi no wan niufala syllable.
+
+Nem ia glaed hemi from we tang kam klosap lo ruf blo maot, mo hemi muv lelbet olsem i glis smol. Hemi olsem haf vowel, haf consonant, mekem se lo sam lanwis olsem English hemi wan consonant, be lo sam lanwis olsem Vatlongos hemi jas wan difren rod blo talem wan vowel. \[j\] \<y\> yu mekem witem fored blo tang blo yu lo fored lo maot. Hem nao from wanem hemi klosap lo vowel saon /i/, from hem tu yu mekem lo fored blo maot mo tang i kam klosap lo ruf blo maot. Blo mekem \[w\] yu yusum bak blo tang blo yu klosap lo ruf blo maot, be tu yu raonem lips blo yu. Hem i klosap lo vowel /u/ from hem tu yu yusum bak blo tang mo lips blo yu i raon.
+
+/i/ hemi kam olsem \[j\] \<y\> taem we /i/ i folem wan narafala vowel, except /u/. Mi traem faenem wan narafala example blo /oi/ be mi save no faenem -- sipos yu save tingaboat wan narafala word we i end lo /oi/ yu talemaot nomo!
+
+| speling | saon      | mining        |
+|---------|-----------|---------------|
+| *bai*   | \[ᵐbaj\]  | 'hemi faet'   |
+| *tei*   | \[tej\]   | 'one'         |
+| *geih*  | \[ᵑɡejh\] | 'hemi strong' |
+| *oi*    | \[oj\]    | 'hey!'        |
+
+Be taem we hemi bifo lo /u/ yu saonem fulwan \[i\] nomo, ating from /u/ i kam olsem \[w\]:
+
++----------+----------+-----------+
+| speling  | saon     | mining    |
++----------+----------+-----------+
+| *hui*    | \[hwi\]  | 'skrasem' |
++----------+----------+-----------+
+
+Hemia wan pattern w Parker i diskraeb lo article blo hem ['Southeast Ambrym Phonology'](https://www.jstor.org/stable/3622894). Be mi ting se yumi pronouncem /i/ olsem \[j\] long sam narafala context tu. Mi no save sipos hemi wan niufala pattern, mekem se Parker i no harem lo 1968. Be mi luk se taem we yumi gat /i/ bifo lo wan narafala vowel insaed lo sem syllable, yumi save pronouncem olsem \[j\]. Ating i no everitaem, be samtaem nomo, especially sipos yumi toktok hariap. Long ol word ia mi soemaot ol silabol witem \<.\>
+
++---------------+----------------------------------+------------------+
+| speling       | saon                             | mining           |
++---------------+----------------------------------+------------------+
+| *iaxa*        | \[i.a.xa\] o \[ja.xa\]           | 'hemia'          |
++---------------+----------------------------------+------------------+
+| *piniai*      | \[pi.ni.aj\] o \[pi.njaj\]       | 'metel dei'      |
++---------------+----------------------------------+------------------+
+| *anien*       | \[a.ni.en\] o \[a.njen\]         | 'kakae'          |
++---------------+----------------------------------+------------------+
+| *ieh*         | \[i.eh\] o \[jeh\]               | 'hamas'          |
++---------------+----------------------------------+------------------+
+| *melengien*   | \[me.le.ŋi.en\] o \[me.le.ŋjen\] | 'dei'            |
++---------------+----------------------------------+------------------+
+| *vongien*     | \[voŋ.i.en\] o \[voŋ.jen\]       | 'naet'           |
++---------------+----------------------------------+------------------+
+| *iou*         | \[i.ow\] o \[jow\]               | 'yes'            |
++---------------+----------------------------------+------------------+
+| *piou*        | \[pi.ow\] o \[pjow\]             | 'hemi klaem blo' |
++---------------+----------------------------------+------------------+
+| *ioxor*       | \[i.o.xor\] o \[jo.xor\]         | 'longwe'         |
++---------------+----------------------------------+------------------+
+| *hoiu*        | \[ho.i.u\] o \[ho.ju\]           | 'wael ken'       |
++---------------+----------------------------------+------------------+
+| *riu*         | \[riu\] o \[rju\]                | 'krab kokonas'   |
++---------------+----------------------------------+------------------+
+
+/u/ hemi kam olsem \[w\] taem we /u/ i folem wan bak vowel: /a/ o /o/, lo sem silabol.
+
++-----------------------+----------------------+----------------------+
+| speling               | saon                 | mining               |
++-----------------------+----------------------+----------------------+
+| *hau*                 | \[haw\]              | \'fulap\'            |
++-----------------------+----------------------+----------------------+
+| *atou*                | \[atow\]             | \'woman\'            |
++-----------------------+----------------------+----------------------+
+
+Mo tu /u/ hemi kam olsem \[w\] taem we /u/ i kam bifo lo /i/, /e/ mo /o/ (non-low vowels), lo sem syllable:
+
+|          |              |                   |
+|----------|--------------|-------------------|
+| speling  | saon         | mining            |
+| *uit*    | \[wit\]      | \'nawita\'        |
+| *vuei*   | \[vwey\]     | \'hoknaet'        |
+| *poue*   | \[po.we\]    | \'hemi karem\'    |
+
+Be sipos /u/ kam bifo /a/ bae hemi \[u\] nomo (mi no sua wanem i happen bifo /æ/, mi no save tingaboat wan eksampol olsem).
+
+|         |        |              |
+|---------|--------|--------------|
+| speling | saon   | mining       |
+| *ua*    | \[ua\] | \'yu kakae\' |
+
+Mo wan narafala exception bakagen hemi se sipos hemi kam bifo /i/ /e/ o /o/, be hemi folem /t/ /n/ o / ⁿd/, bae hemi \[u\] nomo:
+
+|         |           |              |
+|---------|-----------|--------------|
+| speling | saon      | mining       |
+|  *tuei* |  \[tuey\] | \'finis\'    |
+| *nuen*  |  \[nuen\] | \'daeva\'    |
