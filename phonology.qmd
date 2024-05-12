@@ -8,18 +8,21 @@ format:
     number-sections: true
 ---
 
-* @sec-intro: Introdaksen
-* @sec-consonant: Ol konsonant
-    + @sec-stop: Ol stop
-    + @sec-nasal: Ol konsonant blong nos
-    + @sec-prenasalisedstop: Ol stap blo nos
-    + @sec-fricative: Ol friksen konsonant
-        - @sec-v: Ol difren rod blo talem v
-        - @sec-x: Ol difren rod blo talem x
-    + @sec-lr: Tufala konsonant l mo r
-    + @sec-consonantsummary: Samari blong ol konsonant saon
-    + @sec-geminateconsonant: Ol dabol konsonant
-* @sec-vowel: Ol vaol 
+-   @sec-intro: Introdaksen
+-   @sec-consonant: Ol konsonant
+    -   @sec-stop: Ol stop
+    -   @sec-nasal: Ol konsonant blong nos
+    -   @sec-prenasalisedstop: Ol stap blo nos
+    -   @sec-fricative: Ol friksen konsonant
+        -   @sec-v: Ol difren rod blo talem v
+        -   @sec-x: Ol difren rod blo talem x
+    -   @sec-lr: Tufala konsonant l mo r
+    -   @sec-consonantsummary: Samari blong ol konsonant saon
+    -   @sec-geminateconsonant: Ol dabol konsonant
+-   @sec-vowel: Ol vaol
+    -   @sec-vowel6: Nambasiks vaol æ
+    -   @sec-longvowel: Ol longfala vaol
+    -   @sec-glide: Ol vaol mo ol glaed
 
 ## Introdaksen {#sec-intro}
 
@@ -55,11 +58,15 @@ Traem mekem trifala naoia mo harem se lips mo tang blo yu i stap wea taem we yu 
 
 Blo raetem trifala saon ia i isi nomo from ol saon ia klosap i semak lo Bislama mo English tu, mo yumi save yusum ol sem leta nomo: \<p\> \<t\> \<k\>. From spelling system blo English i no gud tumas, samtaem bae yu luk saon ia /k/ oli raetem \<c\>. Sam samting i difren smol lo Vatlongos. Samtaem we yumi talem /t/, yumi putum fored blo tang blo yumi i tajem bihaen lo tut blo yumi, be fulap taem lo English ol man oli putum fored blo tang blo olgeta antap lo ruf blo maot bihaen lo ol tut. Mi no mekem tumas risoj lo ol difrens olsem yet be mi hop se bae mi mekem sam risoj olsem lo fuja.
 
-| Sound | Letter | Examples                                                |
-|-------|--------|---------------------------------------------------------|
-| p     | **p**  | **p**at, sa**p**, lasu**pp**ang, taa**pp**in            |
-| t     | **t**  | **t**ei, pa**t**, ke**tt**eh, lu**tt**eong              |
-| k     | **k**  | **k**aa**k**au, xia**k**, mi**kk**as, **k**o**kk**orong |
++-----------+-----------+---------------------------------------------------------+
+| Sound     | Letter    | Examples                                                |
++===========+===========+=========================================================+
+| p         | **p**     | **p**at, sa**p**, lasu**pp**ang, taa**pp**in            |
++-----------+-----------+---------------------------------------------------------+
+| t         | **t**     | **t**ei, pa**t**, ke**tt**eh, lu**tt**eong              |
++-----------+-----------+---------------------------------------------------------+
+| k         | **k**     | **k**aa**k**au, xia**k**, mi**kk**as, **k**o**kk**orong |
++-----------+-----------+---------------------------------------------------------+
 
 : Leta blong stop konsonant mo eksampol
 
@@ -79,11 +86,15 @@ Blo raetem ol saon ia tu i no had tumas, from ol saon ia i stap lo Bislama mo En
 
 Wan samting nomo we sam man i no laekem, hemi se yumi yusum tufala leta wantaem \<n\> wetem \<g\> blo raetem wan saon nomo /ŋ/. Saon ia hemi no /n/ afta /g/, hemi wan saon nomo we yu mekem lo nose blo yu olsem /n/, be wetem bak blo tang blo yu olsem /g/. From we samtaem man i wantem holtaet lo rul ia se yu sud gat wan leta blo wan saon, ol man lo Fiji mo fulap narafala ples lo Pacific, oli raetem saon ia witem \<q\>, from olgeta mo yumi no stap yusum leta ia \<q\> lo alphabet blo yumi. Mi ting se bae yumi holtaet lo spelling ia \<ng\>, be sipos fulap blo yufala wantem jenisem i go lo \<q\> hem tu i posibol.
 
-| Saon | Leta   | Eksampol                                                        |
-|-------------------|-------------------|-----------------------------------|
-| m    | **m**  | **m**ahis, **m**ahulong, xa**m**e**m**, a**mm**ei               |
-| n    | **n**  | **n**i, **n**ahou, bie**n**, **n**a**nn**emi, **n**asepi**nn**i |
-| ŋ    | **ng** | **ng**anak, a**ng**, eisi**ng**, mi**ngng**el                   |
++-----------+-----------+-----------------------------------------------------------------+
+| Saon      | Leta      | Eksampol                                                        |
++===========+===========+=================================================================+
+| m         | **m**     | **m**ahis, **m**ahulong, xa**m**e**m**, a**mm**ei               |
++-----------+-----------+-----------------------------------------------------------------+
+| n         | **n**     | **n**i, **n**ahou, bie**n**, **n**a**nn**emi, **n**asepi**nn**i |
++-----------+-----------+-----------------------------------------------------------------+
+| ŋ         | **ng**    | **ng**anak, a**ng**, eisi**ng**, mi**ngng**el                   |
++-----------+-----------+-----------------------------------------------------------------+
 
 : Leta blong ol konsonant blo nos mo ol eksampol
 
@@ -140,7 +151,7 @@ Blo raetem ol saon ia, \<s\> mo \<h\> i isi nomo from i semak lo Bislama mo Engl
 | x    | **x** | **x**ale, **x**il, se**x**ien, ta**x**iak        |
 | h    | **h** | **h**oramue, le**h**, va**h**e, kaka**h**        |
 
-:Leta blong ol friksen konsonant mo ol eksampol
+: Leta blong ol friksen konsonant mo ol eksampol
 
 Wan samting we i difren blo saon ia /h/ lo lanwis taem yu lukluk lo English, hemi se lo English saon ia /h/ hemi no save stap lo en blo wan word o syllable, be lo Vatlongos hemi stap lo en blo word o syllable fulap taem.
 
@@ -174,12 +185,15 @@ Samting ia hemi wan narafala decision we yumi mas mekem lo saed blo speling. Sip
 
 Be sipos yumi wantem se evritaem we yumi mekem saon ia \[p\] spelling i semak nomo, bae yumi raetem *dup* mo *sup*. Ating speling olsem bae i mo klia lo ol pikinini taem oli stap lan blo rid lo hem. Lo linguistics mifala talemaot se sistem olsem hemi 'shallow', from we hemi soemaot ol saon olsem we yumi talemaot nomo.
 
-| saon        | leta | eksampol                                              |
-|-------------|------|-------------------------------------------------------|
-| v, β, \[p\] | v, p | **v**enu, **v**ahe, tu**v**a**v**a, du**v**a, du**p** |
-| p           | p    | **p**at, sa**p**, lasu**pp**ang, taa**pp**in          |
++-------------+------------+-------------------------------------------------------+
+| saon        | leta       | eksampol                                              |
++=============+============+=======================================================+
+| v, β, \[p\] | v, p       | **v**enu, **v**ahe, tu**v**a**v**a, du**v**a, du**p** |
++-------------+------------+-------------------------------------------------------+
+| p           | p          | **p**at, sa**p**, lasu**pp**ang, taa**pp**in          |
++-------------+------------+-------------------------------------------------------+
 
-:Eksampol blo soemaot rod blo talem /v/ olsem /p/ long speling
+: Eksampol blo soemaot rod blo talem /v/ olsem /p/ long speling
 
 #### Ol difren rod blo talem x {#sec-x}
 
@@ -201,12 +215,15 @@ Rod blo talem saon ia /x/ olsem \[k\] i mekem sem kwestun lo saed blo spelling w
 
 From ol saon ia i no stap lo English o Bislama, mi faenem se i had lelbet lo mi blo save gud wanem rod we man i yusum evritaem. Samtaem we mi toktok Vatlongos mi ting se mi talem \[h\] nomo we i no stret rod blo talem saon ia. Mi karem fulap information blo saon ia long wan article we Gary J. Parker i raetem lo 1968: *Southeast Ambrym Phonology.* Yu save ridim article ia lo [link ia](https://www.jstor.org/stable/3622894) be hemi yusum fulap technical terminology we i had lelbet blo ridim save.
 
-| Saon                 | Leta | Eksampol                                            |
-|---------------------|------------------|---------------------------------|
-| x, ɣ, χ, ʁ, ʀ, \[k\] | x, k | **x**ale, **x**il, se**x**ien, ta**x**iak, sakras   |
-| k                    | k    | **k**aakau, xia**k**, mi**kk**as, **k**o**kk**orong |
++----------------------+--------------+-----------------------------------------------------+
+| Saon                 | Leta         | Eksampol                                            |
++======================+==============+=====================================================+
+| x, ɣ, χ, ʁ, ʀ, \[k\] | x, k         | **x**ale, **x**il, se**x**ien, ta**x**iak, sakras   |
++----------------------+--------------+-----------------------------------------------------+
+| k                    | k            | **k**aakau, xia**k**, mi**kk**as, **k**o**kk**orong |
++----------------------+--------------+-----------------------------------------------------+
 
-:Eksampol blo soemaot rod blo talem /x/ olsem /k/ long speling
+: Eksampol blo soemaot rod blo talem /x/ olsem /k/ long speling
 
 ### Tufala konsonant l mo r {#sec-lr}
 
@@ -226,12 +243,15 @@ Blo mekem saon ia /l/ yu putum tang blo yu lo ruf blo maot blo yu, be yu mekem t
 
 Hem tu i isi blo raetem from hemi semak lo Bislama mo English mo French tu. Lo English i gat wan difren rod blo talem taem we i stap lo end blo word, we yu no mekem wetem fored blo tang blo yu be yu mekem wetem bak blo tang blo yu, insaed lo sam word olsem *full*.
 
-| Saon | Leta  | Eksampol                                                                      |
-|------------------------|------------------------|------------------------|
-| l    | **l** | **l**iei, **l**im, vu**l**, gusi**l**, miki**l**a, **l**a**ll**eh, te**ll**ep |
-| r, ɾ | **r** | **r**elit, **r**alu, ba**r**, igoxo**r**, xi**r**                             |
++----------+----------+-------------------------------------------------------------------------------+
+| Saon     | Leta     | Eksampol                                                                      |
++==========+==========+===============================================================================+
+| l        | **l**    | **l**iei, **l**im, vu**l**, gusi**l**, miki**l**a, **l**a**ll**eh, te**ll**ep |
++----------+----------+-------------------------------------------------------------------------------+
+| r, ɾ     | **r**    | **r**elit, **r**alu, ba**r**, igoxo**r**, xi**r**                             |
++----------+----------+-------------------------------------------------------------------------------+
 
-:Leta blong l mo r mo ol eksampol
+: Leta blong l mo r mo ol eksampol
 
 ### Samari blong ol konsonant saon {#sec-consonantsummary}
 
@@ -247,25 +267,41 @@ Pija ia hemi soemaot ol leta blo raetem ol saon ia. Long pija ia mi soemaot wan 
 
 Tebol ia i soemoat evri konsonant saon wetem leta blo hem mo sam eksampol word.
 
++----------------------+------------+-------------------------------------------------------------------------------+
 | Saon (IPA)           | Leta       | Eksampol                                                                      |
-|------------------------|------------------------|------------------------|
++======================+============+===============================================================================+
 | p                    | **p**      | **p**at, sa**p**, lasu**pp**ang, taa**pp**in                                  |
++----------------------+------------+-------------------------------------------------------------------------------+
 | t                    | **t**      | **t**ei, pa**t**, ke**tt**eh, lu**tt**eong                                    |
++----------------------+------------+-------------------------------------------------------------------------------+
 | k                    | **k**      | **k**aa**k**au, xia**k**, mi**kk**as, **k**o**kk**orong                       |
++----------------------+------------+-------------------------------------------------------------------------------+
 | ᵐb                   | **b**, mb  | **b**os, na**b**a, lat**b**a, **b**arang, te**b**en                           |
++----------------------+------------+-------------------------------------------------------------------------------+
 | ⁿd                   | **d**, nd  | **d**i, la**d**oxol, lat**d**up, re**d**emien                                 |
++----------------------+------------+-------------------------------------------------------------------------------+
 | ᵑɡ                   | **g**, ngg | **g**o, **g**ehik, la**g**ur, lat**g**a, i**g**ak                             |
++----------------------+------------+-------------------------------------------------------------------------------+
 | m                    | **m**      | **m**ahis, **m**ahulong, xa**m**em, a**mm**ei                                 |
++----------------------+------------+-------------------------------------------------------------------------------+
 | n                    | **n**      | **n**i, **n**ahou, bie**n**, **n**a**nn**emi, **n**asepi**nn**i               |
++----------------------+------------+-------------------------------------------------------------------------------+
 | ŋ                    | **ng**     | **ng**anak, a**ng**, eisi**ng**, mi**ngng**el                                 |
++----------------------+------------+-------------------------------------------------------------------------------+
 | v, β, \[p\]          | **v**, p   | **v**enu, **v**ahe, tu**v**a**v**a, nadu**v**a, nadu**p**                     |
++----------------------+------------+-------------------------------------------------------------------------------+
 | s                    | **s**      | **s**ap, bo**s**, ea**s**, ta**ss**en, me**ss**e                              |
++----------------------+------------+-------------------------------------------------------------------------------+
 | x, ɣ, χ, ʁ, ʀ, \[k\] | **x**, k   | **x**ale, **x**il, se**x**ien, ta**x**iak, sa**x**aras, sa**k**ras            |
++----------------------+------------+-------------------------------------------------------------------------------+
 | h                    | **h**      | **h**oramue, le**h**, va**h**e, kaka**h**                                     |
++----------------------+------------+-------------------------------------------------------------------------------+
 | l                    | **l**      | **l**iei, **l**im, vu**l**, gusi**l**, miki**l**a, **l**a**ll**eh, te**ll**ep |
++----------------------+------------+-------------------------------------------------------------------------------+
 | r, ɾ                 | **r**      | **r**elit, **r**alu, ba**r**, igoxo**r**, xi**r**                             |
++----------------------+------------+-------------------------------------------------------------------------------+
 
-:Leta blong evri konsonant wetem ol eksampol blo hem
+: Leta blong evri konsonant wetem ol eksampol blo hem
 
 ### Ol dabol konsonant {#sec-geminateconsonant}
 
@@ -321,28 +357,176 @@ Naoia yumi redi blo gohed lo ol sound we oli vaol. Ol vaol oli ol kaen saon we y
 
 Lo Vatlongos i gat 6 difren vaol: /a/ /e/ /i/ /o/ /u/ mo /æ/. Hemi mo bitim Bislama we i gat 5, mo tu i mo bitim namba blo ol leta blo vaol \<a\> \<e\> \<i\> \<o\> \<u\>, mekem se i had blo spelem gud evriwan. Be i no fulap olsem English we nomali i gat up to 20 vaol (i depen lo wanwan accent o variety of English).
 
-Blo mekem ol difren saon blo ol vaol, yu muvum tang blo yu insaed lo maot blo yu. 
+Blo mekem ol difren saon blo ol vaol, yu muvum tang blo yu insaed lo maot blo yu.
 
-Yu save traem harem muvmen ia sipos yu talem saon blo /i/ (saon inside lo *di* \'stap\'), afta traem /a/ (saon inside lo *ha*! \'go\'), afta ripitim bakagen /i/ /a/ /i/ /a/. Taem we yu talem /i/, bae yu harem se tang blo yu i stap antap mo lo fored blo maot blo yu. Taem we yu talem /a/ tang bae i stap daon mo lo bak blo maot blo yu, mo tu bae i fosem yu blo openem maot blo yu. Hem nao from wanem taem we wan dokta o dentist i wantem luk insaed lo maot blo yu, bae i talem \'say ahhh\'. 
+Yu save traem harem muvmen ia sipos yu talem saon blo /i/ (saon inside lo *di* 'stap'), afta traem /a/ (saon inside lo *ha*! 'go'), afta ripitim bakagen /i/ /a/ /i/ /a/. Taem we yu talem /i/, bae yu harem se tang blo yu i stap antap mo lo fored blo maot blo yu. Taem we yu talem /a/ tang bae i stap daon mo lo bak blo maot blo yu, mo tu bae i fosem yu blo openem maot blo yu. Hem nao from wanem taem we wan dokta o dentist i wantem luk insaed lo maot blo yu, bae i talem 'say ahhh'.
 
 Fes pija ia i traem soemaot posisen blo tang insaed lo maot blo 6 vaol sound lo Vatlongos.
 
 ![Ol vaol](img/Vowels.jpg)
 
-Wan nara samting we i jenjem saon blo ol vaol hemi position blo lips blo yu. Blo fulap vaol yu no mekem eni samting wetem lips blo yu, oli stap nomol nomo. Be blo tufala vowel ia /o/ mo /u/ yu mas mekem se lips blo yu i raon. Sipos yu traem talem \/u\/ (saon blo *ut* \'soa\') afta /i/ (saon blo *di* \'stap\'), afta ripitim \/u\/ \/i\/ \/u\/ \/i\/, bae yu harem se lips blo yu i stap muv bigwan (mo tu tang i stap antap lo maot be i muv bak, fored, bak, fored). 
+Wan nara samting we i jenjem saon blo ol vaol hemi position blo lips blo yu. Blo fulap vaol yu no mekem eni samting wetem lips blo yu, oli stap nomol nomo. Be blo tufala vowel ia /o/ mo /u/ yu mas mekem se lips blo yu i raon. Sipos yu traem talem /u/ (saon blo *ut* 'soa') afta /i/ (saon blo *di* 'stap'), afta ripitim /u/ /i/ /u/ /i/, bae yu harem se lips blo yu i stap muv bigwan (mo tu tang i stap antap lo maot be i muv bak, fored, bak, fored).
 
 Tebol ia i soemaot posisen blo tang mo lips blo evri vowel.
 
-Vaol	| Tang |	Lips
---- | --- | ---
-a |	daon, bak |	nomol
-e |	medel, fored |	nomol
-i |	antap, fored	| nomol
-o |	medel, bak |	raon
-u |	antap, bak |	raon
-æ |	daon, fored |	nomol
+| Vaol | Tang         | Lips  |
+|------|--------------|-------|
+| a    | daon, bak    | nomol |
+| e    | medel, fored | nomol |
+| i    | antap, fored | nomol |
+| o    | medel, bak   | raon  |
+| u    | antap, bak   | raon  |
+| æ    | daon, fored  | nomol |
 
-:Posisen blo tang mo lips blong mekem ol vaol saon
+: Posisen blo tang mo lips blong mekem ol vaol saon
 
+### Nambasiks vaol æ {#sec-vowel6}
+
+Yumi luk finis se vowel ia /æ/ yumi mekem wetem tang i stap daon mo fored lo maot blo yu.
+
+Be saon ia, i no gat fulap word we i stap lo hem. Lo dictionary database we mi mekem, i gat 103 word nomo we /æ/ i stap lo hem, be i gat araon 2000 we /a/ i stap lo hem, mo araon 1750 we /e/ i stap lo hem. (Be mi save tu se ating i stap lo sam narafala word we mi mestem, sipos yu tingabaot wan word bakagen we i stap lo hem yu talemaot!)
+
+Saon ia hemi no fri olsem ol narafala vowel. Nomali hemi stap nomo lo tu kaen ples:
+
+1\) taem i folem wan consonant blo lips (/p/, /ᵐb/, /m/, /v/) e.g. *pæmmel* 'Pamal village', *pæsi* 'bonem', *mbæ* 'hemi go', *mætu* 'kokonas', *mæmæas* 'blu o grin', *væhakut* 'oltaem', *væivæi* 'pijin, white-breasted wood swallow'.
+
+2\) taem i kam bifo /h/ e.g. *milæhi* 'hemi karem', *puitæh* 'door', *viliæh* 'wataem', *kettæh* 'lukluk'
+
+Hemi save stap lo sam narafala ples tu be no tumas, e.g. *hælis* 'padel', *hæsi* 'glad', *hiræe* 'neck', *kæau* 'fatfat'.
+
+Hemi neva feswan insaed lo wan word, i mas gat wan consonant bifo lo hem lo stat blo word.
+
+Samtaem i gat tu rod blo talem wan word: wan we i /æ/ mo narawan we i /a/ o /e/. Eksampol: blo talem 'bigwan', samtaem mi bin harem *himætu*, samtaem mi bin harem *himetu*; blo talem 'moning' samtaem mi harem *mæækue*, samtaem mi harem *mæakue*.
+
+Taem olsem we i gat ol restriction lo wan saon olsem, ol linguist bae oli ting se ating hemi no wan saon hemwan (wan phoneme), be ating hemi wan difren version blo wan difren saon (wan allophone), olsem we yumi tokabaot lo saed blo sam consonant. Be mi luk se narafala saon /e/ mo /a/ save stap lo ol ples ia tu, mekem se hemi no wan allophone blo wan narafala saon ia, be hemi wan saon hem wan.
+
+Blo pruvum se i olsem, i mas gat sam 'minimal pair': hemi taem we yu gat tufala word we i gat difren mining, mo wan difrens nomo lo saon hemi tufala saon we yu traem soemaot se i gat difrens lo hem. Wan gudfala example blo soemaot se /æ/ hemi difren lo /a/ witem /e/, hemi trifala word ia: *mai* 'rif, sotleg'; *mei* 'kam'; *mæi* 'hemi letem' o 'hangga' (e.g. *mæi mikkat*). Mi putum sam mo minimal pair lo table: sam mi luk lo dictionary blo Gary J. Parker nomo mo mi no bin jekem gud, mekem se mi no sua sipos i tru o nogat -- sipos yu harem se wan samting i no stret lo saon o mining blo hem plis yu letem mi save!
+
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| e                                                                        | æ                           | a                                                                        |
++==========================================================================+=============================+==========================================================================+
+| *mei* 'kam'                                                              | *mæi* 'hangga, hemi letem'  | *mai* 'rif, sotleg'                                                      |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| *lehi* 'lego'                                                            | *læhi* 'karem!'             | *lahi* 'singsing!'                                                       |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| *mel* 'hemi glad (Endu-Vatlongos)                                        | *mæl* 'frut, ?dragon plum'  | *mal* 'hemi wid lo garen'                                                |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| *mbe* 'hemi go lo, hemi\... (olsem English *be*, *is*, *are*)'           | *mbæ* 'hemi go'             | *mba* 'hemi sakem frut' (ating Endu-Vatlongos nomo?)                     |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| ------------------------------------------------------------------------ | *hæl* 'mekem shap'          | *hal* 'husk blo kokonas'                                                 |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| ------------------------------------------------------------------------ | *mæh* 'oltaem'              | *mah* 'carry'                                                            |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| ------------------------------------------------------------------------ | *mæhis* 'ases'              | *mahis* 'aftanun'                                                        |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| *mele* 'sore throat'                                                     | *mæle* 'nogat salt, bland'  | ------------------------------------------------------------------------ |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| *mæmei* 'yawn'                                                           | *mæmæi* 'pispis'            | ------------------------------------------------------------------------ |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| ------------------------------------------------------------------------ | *mæt* 'hemi ded'            | *mat* 'mat' (Bislama loanword)                                           |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| *pe* 'andanit'                                                           | *pæ* 'karem (wan man)'      | ------------------------------------------------------------------------ |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| ------------------------------------------------------------------------ | *pæpæn* 'sut wetem boanaro' | *papan* 'wisel'                                                          |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| ------------------------------------------------------------------------ | *pæs* 'bonem'               | *pas* 'brekem'                                                           |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+| ------------------------------------------------------------------------ | *væh* 'pandanus'            | *vah* 'shed'                                                             |
++--------------------------------------------------------------------------+-----------------------------+--------------------------------------------------------------------------+
+
+: Ol minimal pair mo minimal set blo soemaot se /e/, /a/, mo /æ/ i difren saon
+
+Hao blo raetem namba sikis vowel ia hemi wan question bakagen. From we yumi gat 5 leta blo vowel nomo: \<a\> \<e\> \<i\> \<o\> \<u\>, hemi had blo tingabaot hao blo raetem. Sipos yumi wantem gat wan leta blo saon ia, ating bae yumi mas yusum wan difren symbol bakagen.
+
+Lo International Phonetic Alphabet, ol linguist oli yusum symbol ia \<æ\> we i miksim leta \<a\>, from saon ia i stap daon olsem /a/, mo leta \<e\>, from saon ia i stap lo fored blo maot olsem /e/. Hemi wan symbol we ol pupu bifo oli bin yusum blo raetem Old English, around lo 800AD: oli singaotem leta ia 'æsh'. Be leta ia oli no yusum lo printing press, mekem se leta ia i bin lus longtaem. Ating i no gud blo yusum symbol ia lo spelling system blo yumi from hemi no isi blo taep lo wan computer or phone.  Tu hemi no gud from hemi klosap tumas lo taem we yu yusum tufala leta \<ae\>, we i minim wan difren saon lo Bislama, olsem *aelan* 'island'. Sipos ol pikinini i stap raetem olsem bae oli save konfus.
+
+Wan narafala option hemi blo yusum sam diacritic o accent lo ol leta blo mekem se i klia, olsem lo French: \<è\> or \<à\>. Ating lo French, saon blo \<è\> i klosap lelbet lo saon blo yumi /æ/ (actually nomali hemi \[ɛ\] we hemi antap lelbet bitim /æ/, be i no antap olsem /e/, we oli raetem olsem \<é\>).  Wan advantage blo yusum leta olsem hemi se ating bae i gud blo ol pikinini taem we oli gohed blo lanem Franis lo skul, especially ol pikinini blo yumi lo Pæmmæl. Be samtaem i had lelbet blo faenem ol symbol ia lo computer or phone, be i no had tumas from ol leta ia i stap lo French.
+
+O sipos yumi no wantem ademap wan narafala leta, yumi save gohed wetem 5 leta nomo, mo bae yumi raetem saon ia wetem \<a\> o \<e\>. Be i had blo jusum. Lo Bislama i no gat saon ia, mekem se i no gat wan gud rison blo jusum. Saon ia i stap lo sam kaen English: lo US English, mo Australia English, mo English blo England fastaem (early twentieth century) oli yusum saon ia blo talemaot ol word olsem *trap, cat*, *mad, rag* etc. Be lo English blo England tedei, oli talem ol saon ia mo olsem \[a\], mo bae oli harem saon ia \[æ\] olsem \[ɛ\] insaed lo word olsem *dress, ɡet, mess, shed* we nomali yumi raetem wetem /e/. Problem ia i mekem se i no gat wan gud rison blo jusum \<a\> o \<e\> lo saed blo English.
+
+Hemia system we mi bin stap yusum lo projek kasem naoia. Nomali mi yusum \<e\>, from mi luk se i no gat tumas minimal pair blo \<e\> witem \<æ\>, mekem se bae yumi no konfus tumas. Mi mekem wan exception nomo blo word we i minim 'go': from we saon hemi /a/ lo basic form /ha/ *ha* 'go!', mi raetem /ᵐbæ/ *mba* 'hemi go', from sipos no bae i konfus wetem /ᵐbe/ *mbe* 'hemi go lo' o 'hemi' (olsem *is* or *to be* lo English). Advantage blo system ia hemi se yumi save raetem wetem nomol keyboard nomo, mo yumi yusum sem leta we yumi yus lo Bislama mo English nomo. Disadvantage hemi se yumi save konfus lo ol minimal pair taem we yumi rid o raet, mo ating bae i save mekem ol pikinini we oli stap lan blo konfus mo ating blo lego saon ia /æ/.
+
+Lo tebol ia mi soemaot sam difren system blo raetem vowel ia, mo mi soemaot eni ambiguity -- we wan spelling i soemaot difren saon - witem [andalaen]{.underline}.
+
++------------------+-------------------------------+---------------------------------------+
+| Saon             | m_i                           | b\_                                   |
++------------------+-------------------------------+---------------------------------------+
+| /æ/ \<è\>        | *mèi* 'hangga'\               | *bè* 'go' (*ha* 'go!')\               |
+|                  | *mei* 'kam'\                  | *be* 'go lo'\                         |
+|                  | *mai* 'rif'                   | *ba* 'sakem frut'                     |
++------------------+-------------------------------+---------------------------------------+
+| /æ/ \<à\>        | *mài* 'hangga'\               | *bà* 'go' (*ha* 'go!')\               |
+|                  | *mei* 'kam'\                  | *be* 'go lo'\                         |
+|                  | *mai* 'rif'                   | *ba* 'sakem frut'                     |
++------------------+-------------------------------+---------------------------------------+
+| /æ/ \<è\>, \<à\> | *mèi* 'hangga'\               | *bà* 'go' (*ha* 'go!')\               |
+|                  | *mei* 'kam'\                  | *be* 'go lo'\                         |
+|                  | *mai* 'rif'                   | *ba* 'sakem frut'                     |
++------------------+-------------------------------+---------------------------------------+
+| /æ/ \<e\>        | [*mei* 'hangga']{.underline}\ | [*be* 'go']{.underline} (*ha* 'go!')\ |
+|                  | [*mei* 'kam']{.underline}\    | [*be* 'go lo']{.underline}\           |
+|                  | *mai* 'rif'                   | *ba* 'sakem frut'                     |
++------------------+-------------------------------+---------------------------------------+
+| /æ/ \<a\>        | [*mai* 'hangga']{.underline}\ | [*ba* 'go']{.underline} (*ha* 'go!')\ |
+|                  | *mei* 'kam'\                  | *be* 'go lo'\                         |
+|                  | [*mai* 'rif']{.underline}     | [*ba* 'sakem frut']{.underline}       |
++------------------+-------------------------------+---------------------------------------+
+| /æ/ \<e\>, \<a\> | [*mei* 'hangga']{.underline}\ | [*ba* 'go']{.underline} (*ha* 'go!')\ |
+|                  | [*mei* 'kam]{.underline}\     | [*be* 'go lo']{.underline}\           |
+|                  | *mai* 'rif                    | *ba* 'sakem frut'                     |
++------------------+-------------------------------+---------------------------------------+
+
+: Ol difren joes blong raetem nambasiks vaol æ, wetem ol eksampol
+
+### Ol longfala vaol {#sec:longvowel}
+
+Yumi luk finis se i gat 6 vowel lo Vatlongos, we tang i stap lo difren ples lo maot blo yu.
+
+Be samtaem tu vowel we i semak i stap tugeta, mo yumi talemaot olsem wan vowel nomo be hemi longfala lelbet.
+
+Blo raetem ol vowel ia yumi jas mekem dabol letter: aa, ee, ii, oo, uu, èè/àà.
+
+I gat sam eksampol lo ol difren saon ia.
+
+*aa*
+
+-   *kaakau* 'wokabaot'
+-   saon ia hemi stap insaed tufala negative prefix, *taa-* mo *naa-*, e.g. *inaave* 'bae hemi no go lo', *lataahuri* 'oli no karem'
+-   samtaem taem we yu putum wan prefix we hemi en lo /a/, (e.g. *na-, la-*, *va-*), bifo lo wan verb we hemi stat lo /a/, yu save gat wan word we hemi stat witem longfala vowel olsem, e.g. *va-a-ni* 'bae hemi kakae'.
+
+*ee*
+
+-   *ee* 'no', *memees* 'pispis', *apees* 'mama pig'
+-   samtaem we yu gat wan word we hemi end lo /e/ mo yu iusum wan suffix we i stat lo /e/, yu save gat wan word we i gat wan longfala /ee/ lo hem, e.g. *koae-en* 'praod', *tasse-e* 'olgeta nomo, by themselves'
+
+*ii*
+
+-   *Ahii* 'God', *mbulii* 'hemi kaont', *nggui* 'hemi blo', *iih* 'yuck', *lii* 'wud', *vesahii* 'popo'
+
+*uu*
+
+-   *mbisuu* 'hemi mit', *lambuu* 'oli openem', *vuuei* 'man pig we oli kastreitem'
+
+*èè*
+
+-   Parker i talem se i no gat tumas word olsem, be sam man i talemaot *mèèkue* 'morning' olsem (be sam i talem *mèakue*). Be sipos yu save tingabaot sam word olsem bakagen yu talemaot nomo!
+
+Parker i talem se i no gat eni word we yumi gat wan longfala /oo/ long hem, mo mi tu mi neva harem wan olsem. Sipos yu save tingabaot wan olsem yu talemaot lo mi!
+
+Blo save sua se ol longfala vowel ia i difren lo ol sot vowel, i mas faenem tufala word we i gat wan difren nomo lo tufala word: sipos hemi wan vowel o dabol vowel. Mi no save faenem blo evri long vowel ia, be hemi isi blo faenem blo /a/ versus /aa/.
+
+Difrens ia hemi veri important lo mining blo sam word olsem:
+
+*latapat* 'sam i slip' 
+*lataapat* 'olgeta i no slip'
+
+Nomali, blo *lataapat*, bae yu putum *ti* lo end blo hem tu blo soemaot se hemi negative, be lo Endu sam olfala i no putum *ti* olsem. Tu mi save talem *latapat ti* blo talem se 'sam i slip lelbet'.
+
+*latapat ti* 'sam i slip smol'
+*lataapat ti* 'olgeta i no slip'
+
+Kaen difrens olsem i soemaot se difrens lo saon ia hemi veri important, mo i gud sipos yumi soemaot difrens ia lo spelling tu, wetem dabol letter olsem.
+
+### Ol vaol mo ol glaed {#sec-glide}
 
 
