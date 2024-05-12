@@ -24,7 +24,7 @@ format:
 
 @sec-consonantsummary: Samari blong ol konsonant
 
-# Introdaksen {#sec-intro}
+## Introdaksen {#sec-intro}
 
 Japta ia bae i tokabaot ol saon blo Vatlongos, mo sam tingting lo saed blo hao blo raetem ol saon blo Vatlongos.
 
