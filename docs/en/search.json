@@ -1,21 +1,47 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Vatlongos website",
+    "objectID": "phonology.html",
+    "href": "phonology.html",
+    "title": "Sounds and spelling",
     "section": "",
-    "text": "This website is for resources about Vatlongos language, spoken in Southeast Ambrym, Vanuatu.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "Seksen 1: Introduction\nSeksen 2: Consonants\n\nSeksen 2.1: Stops\nSeksen 2.2: Nasal consonants\nSeksen 2.3: Prenasalised stops\nSeksen 2.4: Fricatives\n\nSeksen 2.4.1: Variants of v\nSeksen 2.4.2: Variants of x\n\nSeksen 2.5: The two consonants l and r\nSeksen 2.6: Summary of consonant sounds\nSeksen 2.7: Double consonants\n\nSeksen 3: Vowels\n\nSeksen 3.1: The sixth vowel æ\nSeksen 3.2: Long vowels\nSeksen 3.3: Vowels and glides",
     "crumbs": [
-      "Hom",
-      "Vatlongos website"
+      "Gramma",
+      "Saon mo speling"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This website contains resources for the Vatlongos language of Southeast Ambrym, Vanuatu.\nEleanor Ridge, a linguist at Massey University, New Zealand, maintains this website."
+    "objectID": "phonology.html#sec-intro",
+    "href": "phonology.html#sec-intro",
+    "title": "Sounds and spelling",
+    "section": "1 Introduction",
+    "text": "1 Introduction\nI’m still working on English translations for this chapter, so some sections haven’t been translated into English yet. You might need to switch to the Bislama version.\nThis chapter is about the phonology (sounds) of Vatlongos, as well as discussing orthography, or how to write those sounds.\nThis chapter uses some technical vocabulary from the area of linguistics called ‘phonology’, but I try to explain them as clearly as possible.",
+    "crumbs": [
+      "Gramma",
+      "Saon mo speling"
+    ]
+  },
+  {
+    "objectID": "phonology.html#sec-consonant",
+    "href": "phonology.html#sec-consonant",
+    "title": "Sounds and spelling",
+    "section": "2 Consonants",
+    "text": "2 Consonants\n\n\n2.1 Stops\n\n\n\n2.2 Nasal consonants\n\n\n\n2.3 Prenasalised stops\n\n\n\n2.4 Fricatives\n\n\n2.4.1 Variants of v\n\n\n\n2.4.2 Variants of x\n\n\n\n\n2.5 The two consonants l and r\n\n\n\n2.6 Summary of consonant sounds\nNow we’ve covered the fifteen consonant sounds of Vatlongos.\nThis image shows the symbols of the consonant sounds in the International Phonetic Alphabet (IPA):\n\n\n\nVatlongos consonants in IPA\n\n\nThis image shows the letters for writing these sounds. In this image I’m just showing one option for each sounds, but as we’ve already discussed, there are different ways to spell some sounds, and different decisions to make about orthography that are up to Vatlongos speakers to decide when they write Vatlongos. Whenever you write something in Vatlongos, like a text, a post on Facebook, a letter or a story, it’s like a vote to show your choice about these spelling questions. So if you don’t like the system of spelling here, tell me and also show the rest of the community what your preference is when you’re writing in Vatlongos.\n\n\n\nLetters for Vatlongos consonants\n\n\nThis table shows every consonant sound with a letter and some example words.\n\nLetters for each consonant with examples\n\n\n\n\n\n\n\n\nSound (IPA) | Letter | Example\n\n\n\n\np\np\npat, sap, lasuppang, taappin\n\n\n\nt\nt\ntei, pat, ketteh, lutteong\n\n\n\nk\nk\nkaakau, xiak, mikkas, kokkorong\n\n\n\nᵐb\nb, mb\nbos, naba, latba, barang, teben\n\n\n\nⁿd\nd, nd\ndi, ladoxol, latdup, redemien\n\n\n\nᵑɡ\ng, ngg\ngo, gehik, lagur, latga, igak\n\n\n\nm\nm\nmahis, mahulong, xamem, ammei\n\n\n\nn\nn\nni, nahou, bien, nannemi, nasepinni\n\n\n\nŋ\nng\nnganak, ang, eising, mingngel\n\n\n\nv, β, [p]\nv, p\nvenu, vahe, tuvava, naduva, nadup\n\n\n\ns\ns\nsap, bos, eas, tassen, messe\n\n\n\nx, ɣ, χ, ʁ, ʀ, [k]\nx, k\nxale, xil, sexien, taxiak, saxaras, sakras\n\n\n\nh\nh\nhoramue, leh, vahe, kakah\n\n\n\nl\nl\nliei, lim, vul, gusil, mikila, lalleh, tellep\n\n\n\nr, ɾ\nr\nrelit, ralu, bar, igoxor, xir\n\n\n\n\n\n\n2.7 Double consonants",
+    "crumbs": [
+      "Gramma",
+      "Saon mo speling"
+    ]
+  },
+  {
+    "objectID": "phonology.html#sec-vowel",
+    "href": "phonology.html#sec-vowel",
+    "title": "Sounds and spelling",
+    "section": "3 Vowels",
+    "text": "3 Vowels\nNow we’re ready to look at the vowel sounds. Vowels are sounds that you make without blocking the air in your mouth at all, you just change the shape of your mouth to change the sound of the vowel. Because you don’t block these sounds, you can make them last a long time, for example when you’re singing, you can stretch out the vowels to be really long.\nIn Vatlongos there are 6 different vowels: /a/ /e/ /i/ /o/ /u/ mo /æ/. That’s more than Bislama which only has 5, and it’s also more than the number of vowel letters in the alphabet, &lt;a&gt; &lt;e&gt; &lt;i&gt; &lt;o&gt; &lt;u&gt;, which makes it hard to spell all six of them easily. But it’s not a lot compared to English, which normally has up to 20 vowels (depending on the accent or variety of English).\nTo make different vowel sounds, you move your tongue inside your mouth.\nYou can try to feel this movement if you make the sound of /i/ (the vowel sound in the word di ‘stay’), and then try making the sound of /a/ (the sound inside of ha! ‘go’), then repeat them over and over again /i/ /a/ /i/ /a/. When you say /i/, you’ll feel that your tongue is up high near the front of your mouth. When you say /a/ your tongue will be down and at the back of your mouth, and it will also force you to open your mouth wider. That’s why when a doctor or a dentist wants to look inside your mouth, they’ll say ‘say ahhh’.\nThis image tries to show the position of the tongue in the mouth for the 6 vowel sounds of Vatlongos.\n\n\n\nVowels\n\n\nAnother thing that changes the sound of vowels is the position of your lips. For a lot of vowels you don’t do anything special with your lips, they’re just normal. But for the two vowels /o/ and /u/ you have to make your lips round. If you try to say /u/ (the sound in ut ‘shore’) and then /i/ (the sound in di ‘stay’), and then repeat them /u/ /i/ /u/ /i/, you’ll feel that your lips are moving a lot (and also your tongue will stay up high in your mouth but move backwards and forwards).\nThis table shows the position of the tongue and lips for each vowel.\n\nPosition of the tongue and lips for each vowel\n\n\nVowe\nTongue\nLips\n\n\n\n\na\ndown, back\nnormal\n\n\ne\nmiddle, forward\nnormal\n\n\ni\nhigh, forward\nnormal\n\n\no\nmiddle, back\nround\n\n\nu\nhigh, back\nround\n\n\næ\ndown, forward\nnormal\n\n\n\n\n3.1 The sixth vowel æ\n\n\n\n3.2 Long vowels\n\n\n\n3.3 Vowels and glides",
+    "crumbs": [
+      "Gramma",
+      "Saon mo speling"
+    ]
   },
   {
     "objectID": "grammar.html",
@@ -26,6 +52,24 @@
     "crumbs": [
       "Gramma",
       "Grammar"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website contains resources for the Vatlongos language of Southeast Ambrym, Vanuatu.\nEleanor Ridge, a linguist at Massey University, New Zealand, maintains this website."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vatlongos website",
+    "section": "",
+    "text": "This website is for resources about Vatlongos language, spoken in Southeast Ambrym, Vanuatu.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Hom",
+      "Vatlongos website"
     ]
   }
 ]

@@ -51,7 +51,7 @@ editor: visual
 babelquarto:
   languagecodes:
   - name: bi
-    text: "Version in Bislama"
+    text: "Vesen long Bislama"
   - name: en
     text: "Version in English"
   mainlanguage: 'bi'
