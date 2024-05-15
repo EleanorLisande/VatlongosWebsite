@@ -552,62 +552,62 @@ Be taem we hemi bifo lo /u/ yu saonem fulwan \[i\] nomo, ating from /u/ i kam ol
 
 Hemia wan pattern w Parker i diskraeb lo article blo hem ['Southeast Ambrym Phonology'](https://www.jstor.org/stable/3622894). Be mi ting se yumi pronouncem /i/ olsem \[j\] long sam narafala context tu. Mi no save sipos hemi wan niufala pattern, mekem se Parker i no harem lo 1968. Be mi luk se taem we yumi gat /i/ bifo lo wan narafala vowel insaed lo sem syllable, yumi save pronouncem olsem \[j\]. Ating i no everitaem, be samtaem nomo, especially sipos yumi toktok hariap. Long ol word ia mi soemaot ol silabol witem \<.\>
 
-+---------------+----------------------------------+------------------+
-| speling       | saon                             | mining           |
-+---------------+----------------------------------+------------------+
-| *iaxa*        | \[i.a.xa\] o \[ja.xa\]           | 'hemia'          |
-+---------------+----------------------------------+------------------+
-| *piniai*      | \[pi.ni.aj\] o \[pi.njaj\]       | 'metel dei'      |
-+---------------+----------------------------------+------------------+
-| *anien*       | \[a.ni.en\] o \[a.njen\]         | 'kakae'          |
-+---------------+----------------------------------+------------------+
-| *ieh*         | \[i.eh\] o \[jeh\]               | 'hamas'          |
-+---------------+----------------------------------+------------------+
-| *melengien*   | \[me.le.ŋi.en\] o \[me.le.ŋjen\] | 'dei'            |
-+---------------+----------------------------------+------------------+
-| *vongien*     | \[voŋ.i.en\] o \[voŋ.jen\]       | 'naet'           |
-+---------------+----------------------------------+------------------+
-| *iou*         | \[i.ow\] o \[jow\]               | 'yes'            |
-+---------------+----------------------------------+------------------+
-| *piou*        | \[pi.ow\] o \[pjow\]             | 'hemi klaem blo' |
-+---------------+----------------------------------+------------------+
-| *ioxor*       | \[i.o.xor\] o \[jo.xor\]         | 'longwe'         |
-+---------------+----------------------------------+------------------+
-| *hoiu*        | \[ho.i.u\] o \[ho.ju\]           | 'wael ken'       |
-+---------------+----------------------------------+------------------+
-| *riu*         | \[riu\] o \[rju\]                | 'krab kokonas'   |
-+---------------+----------------------------------+------------------+
++----------------+----------------------------------+------------------+
+| speling        | saon                             | mining           |
++----------------+----------------------------------+------------------+
+| *iaxa*         | \[i.a.xa\] o \[ja.xa\]           | 'hemia'          |
++----------------+----------------------------------+------------------+
+| *piniai*       | \[pi.ni.aj\] o \[pi.njaj\]       | 'metel dei'      |
++----------------+----------------------------------+------------------+
+| *anien*        | \[a.ni.en\] o \[a.njen\]         | 'kakae'          |
++----------------+----------------------------------+------------------+
+| *ieh*          | \[i.eh\] o \[jeh\]               | 'hamas'          |
++----------------+----------------------------------+------------------+
+| *melengien*    | \[me.le.ŋi.en\] o \[me.le.ŋjen\] | 'dei'            |
++----------------+----------------------------------+------------------+
+| *vongien*      | \[voŋ.i.en\] o \[voŋ.jen\]       | 'naet'           |
++----------------+----------------------------------+------------------+
+| *iou*          | \[i.ow\] o \[jow\]               | 'yes'            |
++----------------+----------------------------------+------------------+
+| *piou*         | \[pi.ow\] o \[pjow\]             | 'hemi klaem blo' |
++----------------+----------------------------------+------------------+
+| *ioxor*        | \[i.o.xor\] o \[jo.xor\]         | 'longwe'         |
++----------------+----------------------------------+------------------+
+| *hoiu*         | \[ho.i.u\] o \[ho.ju\]           | 'wael ken'       |
++----------------+----------------------------------+------------------+
+| *riu*          | \[riu\] o \[rju\]                | 'krab kokonas'   |
++----------------+----------------------------------+------------------+
 
 /u/ hemi kam olsem \[w\] taem we /u/ i folem wan bak vowel: /a/ o /o/, lo sem silabol.
 
-+-----------------------+----------------------+----------------------+
-| speling               | saon                 | mining               |
-+-----------------------+----------------------+----------------------+
-| *hau*                 | \[haw\]              | \'fulap\'            |
-+-----------------------+----------------------+----------------------+
-| *atou*                | \[atow\]             | \'woman\'            |
-+-----------------------+----------------------+----------------------+
++----------------------+---------------------+---------------------+
+| speling              | saon                | mining              |
++----------------------+---------------------+---------------------+
+| *hau*                | \[haw\]             | 'fulap'             |
++----------------------+---------------------+---------------------+
+| *atou*               | \[atow\]            | 'woman'             |
++----------------------+---------------------+---------------------+
 
 Mo tu /u/ hemi kam olsem \[w\] taem we /u/ i kam bifo lo /i/, /e/ mo /o/ (non-low vowels), lo sem syllable:
-
-|          |              |                   |
-|----------|--------------|-------------------|
-| speling  | saon         | mining            |
-| *uit*    | \[wit\]      | \'nawita\'        |
-| *vuei*   | \[vwey\]     | \'hoknaet'        |
-| *poue*   | \[po.we\]    | \'hemi karem\'    |
-
-Be sipos /u/ kam bifo /a/ bae hemi \[u\] nomo (mi no sua wanem i happen bifo /æ/, mi no save tingaboat wan eksampol olsem).
-
-|         |        |              |
-|---------|--------|--------------|
-| speling | saon   | mining       |
-| *ua*    | \[ua\] | \'yu kakae\' |
-
-Mo wan narafala exception bakagen hemi se sipos hemi kam bifo /i/ /e/ o /o/, be hemi folem /t/ /n/ o / ⁿd/, bae hemi \[u\] nomo:
 
 |         |           |              |
 |---------|-----------|--------------|
 | speling | saon      | mining       |
-|  *tuei* |  \[tuey\] | \'finis\'    |
-| *nuen*  |  \[nuen\] | \'daeva\'    |
+| *uit*   | \[wit\]   | 'nawita'     |
+| *vuei*  | \[vwej\]  | 'hoknaet'    |
+| *poue*  | \[po.we\] | 'hemi karem' |
+
+Be sipos /u/ kam bifo /a/ bae hemi \[u\] nomo (mi no sua wanem i happen bifo /æ/, mi no save tingaboat wan eksampol olsem).
+
+|         |        |            |
+|---------|--------|------------|
+| speling | saon   | mining     |
+| *ua*    | \[ua\] | 'yu kakae' |
+
+Mo wan narafala exception bakagen hemi se sipos hemi kam bifo /i/ /e/ o /o/, be hemi folem /t/ /n/ o / ⁿd/, bae hemi \[u\] nomo:
+
+|         |          |         |
+|---------|----------|---------|
+| speling | saon     | mining  |
+| *tuei*  | \[tuej\] | 'finis' |
+| *nuen*  | \[nuen\] | 'daeva' |

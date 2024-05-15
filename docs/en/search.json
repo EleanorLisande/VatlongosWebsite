@@ -1,0 +1,31 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vatlongos website",
+    "section": "",
+    "text": "This website is for resources about Vatlongos language, spoken in Southeast Ambrym, Vanuatu.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Hom",
+      "Vatlongos website"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website contains resources for the Vatlongos language of Southeast Ambrym, Vanuatu.\nEleanor Ridge, a linguist at Massey University, New Zealand, maintains this website."
+  },
+  {
+    "objectID": "grammar.html",
+    "href": "grammar.html",
+    "title": "Grammar",
+    "section": "",
+    "text": "This section is a like a book that linguists call a ‘Grammar’. Grammars try to give lots of information about the rules of a particular language. Every langauge has rules about the sound of the language (or gestures in sign languages), rules about how words are made up, and rules about how to make sentences.\nOn the side bar you can choose different chapters that cover different different areas of the Vatlongos language. At the moment there is a section about sounds and spelling, but I’ll continue to update more chapters.",
+    "crumbs": [
+      "Gramma",
+      "Grammar"
+    ]
+  }
+]

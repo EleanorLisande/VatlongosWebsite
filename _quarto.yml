@@ -47,3 +47,14 @@ format:
 
 editor: visual
 
+babelquarto:
+  languagecodes:
+  - name: bi
+    text: "Version in Bislama"
+  - name: en
+    text: "Version in English"
+  mainlanguage: 'bi'
+  languages: ['en']
+title-en: Vatlongos website
+lang: bi
+
