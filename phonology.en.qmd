@@ -1,5 +1,5 @@
 ---
-title: "Saon mo speling"
+title: "Sounds and spelling"
 format:
   html:
     toc: true
@@ -8,45 +8,47 @@ format:
     number-sections: true
 ---
 
--   @sec-intro: Introdaksen
--   @sec-consonant: Ol konsonant
-    -   @sec-stop: Ol stop
-    -   @sec-nasal: Ol konsonant blong nos
-    -   @sec-prenasalisedstop: Ol stap blo nos
-    -   @sec-fricative: Ol friksen konsonant
-        -   @sec-v: Ol difren rod blo talem v
-        -   @sec-x: Ol difren rod blo talem x
-    -   @sec-lr: Tufala konsonant l mo r
-    -   @sec-consonantsummary: Samari blong ol konsonant saon
-    -   @sec-geminateconsonant: Ol dabol konsonant
--   @sec-vowel: Ol vaol
-    -   @sec-vowel6: Nambasiks vaol æ
-    -   @sec-longvowel: Ol longfala vaol
-    -   @sec-glide: Ol vaol mo ol glaed
+-   @sec-intro: Introduction
+-   @sec-consonant: Consonants
+    -   @sec-stop: Stops
+    -   @sec-nasal: Nasal consonants
+    -   @sec-prenasalisedstop: Prenasalised stops
+    -   @sec-fricative: Fricatives
+        -   @sec-v: Variants of v
+        -   @sec-x: Variants of x
+    -   @sec-lr: The two consonants l and r
+    -   @sec-consonantsummary: Summary of consonant sounds
+    -   @sec-geminateconsonant: Double consonants
+-   @sec-vowel: Vowels
+    -   @sec-vowel6: The sixth vowel æ
+    -   @sec-longvowel: Long vowels
+    -   @sec-glide: Vowels and glides
 
-## Introdaksen {#sec-intro}
+## Introduction {#sec-intro}
 
-Japta ia bae i tokabaot ol saon blo Vatlongos, mo sam tingting lo saed blo hao blo raetem ol saon blo Vatlongos.
+*I'm still working on English translations for this chapter, so some sections haven't been translated into English yet. You might need to switch to the Bislama version.*
 
-Japta ia bae i gat fulap toktok we i aot lo eria blo linguistics we oli talemaot 'phonology'. Bae mi traem yusum Bislama we i posibol, be samtaem bae mi mas yusum sam toktok blo Inglis mo linguistics, mo bae mi traem explenem gud.
+This chapter is about the phonology (sounds) of Vatlongos, as well as discussing orthography, or how to write those sounds.
 
-Tufala toktok we oli impoten blo toktok lo saon hemi consonant mo vowel. Ol consonants oli ol saon we yu blokem air lo maot blo yu. Mo ol vowels oli ol saon we ea i jas kamaot nomo -- yu stap jenisem sep blo hem witem maot mo tang blo yu, be yu no blokem hem.
+This chapter uses some technical vocabulary from the area of linguistics called 'phonology', but I try to explain them as clearly as possible.
+
+<!--Tufala toktok we oli impoten blo toktok lo saon hemi consonant mo vowel. Ol consonants oli ol saon we yu blokem air lo maot blo yu. Mo ol vowels oli ol saon we ea i jas kamaot nomo -- yu stap jenisem sep blo hem witem maot mo tang blo yu, be yu no blokem hem.
 
 Tu bae yumi yusum wan special alphabet we ol linguist i talemaot 'International Phonetic Alphabet' (IPA). Sipos yu save ol symbol ia, bae yu andastandem gud ol saon blo evri lanwis lo wol. Taem we mi raetem wan leta insaed lo ol /slash/ o \[skwea bracket\], hemi minim se hemi wan IPA symbol.
 
-Bae yumi tokbaoat ol consonant festaem, afta ol vowel, mo soemaot from wanem oli ol difdifren saon lo Vatlongos. Neks bae yumi tokabaot ol saon blo Bislama mo Inglis we i save kam insaed lo Vatlongos, mo laswan bae yumi tokabaot hao ol saon i save kam tugeta insaed lo ol syllable, we hemi olsem wan bit insaed lo lanwis.
+Bae yumi tokbaoat ol consonant festaem, afta ol vowel, mo soemaot from wanem oli ol difdifren saon lo Vatlongos. Neks bae yumi tokabaot ol saon blo Bislama mo Inglis we i save kam insaed lo Vatlongos, mo laswan bae yumi tokabaot hao ol saon i save kam tugeta insaed lo ol syllable, we hemi olsem wan bit insaed lo lanwis.-->
 
-## Ol konsonant {#sec-consonant}
+## Consonants {#sec-consonant}
 
-Vatlongos hemi gat 15 saon we oli ol konsonant.
+<!--Vatlongos hemi gat 15 saon we oli ol konsonant.
 
 Konsonant hemi gat wan mining lo linguistik we i minim ol saon we yu blokem o ristriktem ol ea flo we i kamaot lo maot blo yu.
 
-I gat ol difren kaen consonant we yumi mekem wetem difren stael, mo lo difren ples blo maot.
+I gat ol difren kaen consonant we yumi mekem wetem difren stael, mo lo difren ples blo maot.-->
 
-### Ol stop {#sec-stop}
+### Stops {#sec-stop}
 
-Bae yumi stat wetem /p/ /t/ /k/ from trifala ia yumi mekem lo sem fasin nomo: yumi stopem ea wantaem, afta yumi lego air bakagen mo taem we yumi lego air bakagen, i mekem wan bigfala saon wantaem.
+<!--Bae yumi stat wetem /p/ /t/ /k/ from trifala ia yumi mekem lo sem fasin nomo: yumi stopem ea wantaem, afta yumi lego air bakagen mo taem we yumi lego air bakagen, i mekem wan bigfala saon wantaem.
 
 Traem talem /p/ be putum han blo yu lo fored blo fes blo yu. Bae yu harem se i no gat ea, afta bigfala air i kamaot wantaem nomo. Lo English mifala talem se ol saon ia 'stop consonants'.
 
@@ -68,11 +70,11 @@ Blo raetem trifala saon ia i isi nomo from ol saon ia klosap i semak lo Bislama 
 | k         | **k**     | **k**aa**k**au, xia**k**, mi**kk**as, **k**o**kk**orong |
 +-----------+-----------+---------------------------------------------------------+
 
-: Leta blong stop konsonant mo eksampol
+: Leta blong stop konsonant mo eksampol-->
 
-### Ol konsonant blong nos {#sec-nasal}
+### Nasal consonants {#sec-nasal}
 
-Section ia bae i tokabaot tri difren consonant bakagen, /m/ /n/ /ŋ/ (symbol ia /ŋ/ hemi wan symbol blo International Phonetic Alphabet we ol linguist oli stap yusum blo soemaot evri saon we hemi posibol lo evri lanwis lo world, be nomali yumi raetem <ng>).
+<!--Section ia bae i tokabaot tri difren consonant bakagen, /m/ /n/ /ŋ/ (symbol ia /ŋ/ hemi wan symbol blo International Phonetic Alphabet we ol linguist oli stap yusum blo soemaot evri saon we hemi posibol lo evri lanwis lo world, be nomali yumi raetem <ng>).
 
 Ol saon ia klosap i semak lo /p/ /t/ /k/ we yumi lanem las wik: yu stopem air we i go lo maot lo yu lo sem ples nomo: /m/ yu stopem wetem lips blo yu olsem /p/, /n/ yu stapem wetem fored blo tang blo yu olsem /t/, mo /ŋ/ yu stapem wetem bak blo tang blo yu olsem /k/. Traem talem /t/, /n/, /t/, /n/, bae yu harem se tang blo yu i stap muv lo sem fasin evritaem.
 
@@ -98,11 +100,11 @@ Wan samting nomo we sam man i no laekem, hemi se yumi yusum tufala leta wantaem 
 
 : Leta blong ol konsonant blo nos mo ol eksampol
 
-Ating yumi saonem ol saon ia klosap i semak lo English nomo, be wan samting we hemi difren, hemi se lo English yu no save putum saon ia /ŋ/ lo fored blo word o syllable, i mas kam bihaen nomo. Hemi wan rison we ol man we oli toktok English oli mestem fulap taem lo Vatlongos mo Bislama. I mekem se i isi lo man we i save English blo talem *eising* 'klos' be i had blo talem *nganak* 'hemia'.
+Ating yumi saonem ol saon ia klosap i semak lo English nomo, be wan samting we hemi difren, hemi se lo English yu no save putum saon ia /ŋ/ lo fored blo word o syllable, i mas kam bihaen nomo. Hemi wan rison we ol man we oli toktok English oli mestem fulap taem lo Vatlongos mo Bislama. I mekem se i isi lo man we i save English blo talem *eising* 'klos' be i had blo talem *nganak* 'hemia'.-->
 
-### Ol stap blo nos {#sec-prenasalisedstop}
+### Prenasalised stops {#sec-prenasalisedstop}
 
-Lo seksen ia bae mi tokabaot 3 consonants ia /mb/ /nd/ /ŋɡ/.
+<!--Lo seksen ia bae mi tokabaot 3 consonants ia /mb/ /nd/ /ŋɡ/.
 
 Ol saon ia klosap i olsem ol stop (/p/ /t/ /k/) we yumi tokabaot finis. Yumi blokem ea lo maot lo ol sem ples nomo, afta yu letemaot ea blo mekem wan bigfala saon. Be mein difrens hemi se yumi putum wan smol saon olsem ol saon blo nos (/m/ /n/ /ŋ/) i kam bifo lo hem. Ol saon ia i stat witem wan saon blo nos we yumi mekem lo sem ples nomo lo stop we i kam bihaen: lips o fored lo tang o bihaen lo tang. Lo linguistics mifala i singaotem ol saon olsem 'prenasalised stops'.
 
@@ -124,11 +126,11 @@ Insaed lo wok we mi bin mekem finis mi bin yusum \<b\> \<d\> \<g\> nomo. Taem we
 | ⁿd    | **d**, nd  | *d*i, *d*oxol, *d*up, re*d*emien |
 | ᵑɡ    | **g**, ngg | **g**ur, **g**ehik, i**g**ak     |
 
-: Leta blong ol stop blo nos mo ol eksampol
+: Leta blong ol stop blo nos mo ol eksampol-->
 
-### Ol friksen konsonant {#sec-fricative}
+### Fricatives {#sec-fricative}
 
-Lo seksen ia bae mi tokabaot fo consonants we oli /v/ /s/ /x/ /h/.
+<!--Lo seksen ia bae mi tokabaot fo consonants we oli /v/ /s/ /x/ /h/.
 
 Ol saon ia i difren lo ol stop we yumi lukluk finis, from yu no blokem ea lo maot blo yu wantaem. Yu no blokem, be klosap bae yu blokem nomo, mekem se ea i fasfas lo maot blo yu mo i gat wan saon taem we ea i traem kamaot sloslo nomo. Hemi olsem yu gat wan balon, mo yu mekem smolsmol hol lo hem wetem wan pin, bae yu harem sam noes we ea i traehad blo kamaot lo balon ia be i mas kam sloslo nomo from hol i smol tumas. Rison blo saon ia hemi friction, mekem se nem blo ol saon olsem lo linguistics hemi fricatives.
 
@@ -153,11 +155,11 @@ Blo raetem ol saon ia, \<s\> mo \<h\> i isi nomo from i semak lo Bislama mo Engl
 
 : Leta blong ol friksen konsonant mo ol eksampol
 
-Wan samting we i difren blo saon ia /h/ lo lanwis taem yu lukluk lo English, hemi se lo English saon ia /h/ hemi no save stap lo en blo wan word o syllable, be lo Vatlongos hemi stap lo en blo word o syllable fulap taem.
+Wan samting we i difren blo saon ia /h/ lo lanwis taem yu lukluk lo English, hemi se lo English saon ia /h/ hemi no save stap lo en blo wan word o syllable, be lo Vatlongos hemi stap lo en blo word o syllable fulap taem.-->
 
-#### Ol difren rod blo talem v {#sec-v}
+#### Variants of v {#sec-v}
 
-Saon ia /v/ mi bin talem finis se i gat sam difren rod blo talem:
+<!--Saon ia /v/ mi bin talem finis se i gat sam difren rod blo talem:
 
 1\) \[v\] we hemi olsem Bislama mo English: yu yusum top tut blo yu witem bottom lip blo mekem
 
@@ -193,11 +195,11 @@ Be sipos yumi wantem se evritaem we yumi mekem saon ia \[p\] spelling i semak no
 | p           | p          | **p**at, sa**p**, lasu**pp**ang, taa**pp**in          |
 +-------------+------------+-------------------------------------------------------+
 
-: Eksampol blo soemaot rod blo talem /v/ olsem /p/ long speling
+: Eksampol blo soemaot rod blo talem /v/ olsem /p/ long speling-->
 
-#### Ol difren rod blo talem x {#sec-x}
+#### Variants of x {#sec-x}
 
-Yumi luk finis se saon ia /x/ hemi wan saon we yu mekem wetem friction lo bak blo tang blo yu. Be /x/ hemi wan saon we yumi gat fulap difren rod blo talem.
+<!--Yumi luk finis se saon ia /x/ hemi wan saon we yu mekem wetem friction lo bak blo tang blo yu. Be /x/ hemi wan saon we yumi gat fulap difren rod blo talem.
 
 1\) velar fricative \[x\] -- hemi minim se yu putum bak blo tang blo yu klosap lo ruf blo maot we i sopsop lelbet. Samtaem yu save mekem voiced velar fricative \[ɣ\], taem we yu mekem voicebox blo yu tu i stap muvmuv.
 
@@ -223,11 +225,11 @@ From ol saon ia i no stap lo English o Bislama, mi faenem se i had lelbet lo mi 
 | k                    | k            | **k**aakau, xia**k**, mi**kk**as, **k**o**kk**orong |
 +----------------------+--------------+-----------------------------------------------------+
 
-: Eksampol blo soemaot rod blo talem /x/ olsem /k/ long speling
+: Eksampol blo soemaot rod blo talem /x/ olsem /k/ long speling-->
 
-### Tufala konsonant l mo r {#sec-lr}
+### The two consonants l and r {#sec-lr}
 
-Las tu consonant we i stap blo tokabaot oli /r/ witem /l/.
+<!--Las tu consonant we i stap blo tokabaot oli /r/ witem /l/.
 
 Tufala saon ia yu mekem witem fored lo tang blo yu, olsem /t/ /ⁿd/ /n/ mo /s/. Be yu mekem difren samting wetem tang blo yu blo mekem tufala saon ia.
 
@@ -251,24 +253,24 @@ Hem tu i isi blo raetem from hemi semak lo Bislama mo English mo French tu. Lo E
 | r, ɾ     | **r**    | **r**elit, **r**alu, ba**r**, igoxo**r**, xi**r**                             |
 +----------+----------+-------------------------------------------------------------------------------+
 
-: Leta blong l mo r mo ol eksampol
+: Leta blong l mo r mo ol eksampol-->
 
-### Samari blong ol konsonant saon {#sec-consonantsummary}
+### Summary of consonant sounds {#sec-consonantsummary}
 
-Naoia yumi bin kaveramap olgeta fiftin konsonant saon we i gat long Vatlongos.
+Now we've covered the fifteen consonant sounds of Vatlongos.
 
-Pija ia hemi soemaot ol simbol blo konsonant saon long International Phonetic Alphabet (IPA):
+This image shows the symbols of the consonant sounds in the International Phonetic Alphabet (IPA):
 
-![Ol konsonant saon blong Vatlongos long IPA](img/IPAConsonants.jpg)
+![Vatlongos consonants in IPA](img/IPAConsonants.jpg)
 
-Pija ia hemi soemaot ol leta blo raetem ol saon ia. Long pija ia mi soemaot wan leta blo wan saon nomo, be olsem we yumi bin tokabout finis, i gat difren rod blo spelem sam saon, mo difren disisen blo mekem lo saed blo speling we hemi stap long ol manples we oli stap toktok mo raet long Vatlongos. Evri taem we yu raetem wan samting long Vatlongos, olsem wan teks mesej, o post long Facebook, o wan leta, o wan stori, hemi olsem vot blo yu blo soemaot joes blo yu long saed blong kwestun blo speling olsem. So sipos yu no laekem sistem blo speling ia, talemaot lo mi mo tu soemaot long komuniti blo yu taem we yu stap raet long Vatlongos.
+This image shows the letters for writing these sounds. In this image I'm just showing one option for each sounds, but as we've already discussed, there are different ways to spell some sounds, and different decisions to make about orthography that are up to Vatlongos speakers to decide when they write Vatlongos. Whenever you write something in Vatlongos, like a text, a post on Facebook, a letter or a story, it's like a vote to show your choice about these spelling questions. So if you don't like the system of spelling here, tell me and also show the rest of the community what your preference is when you're writing in Vatlongos.
 
-![Ol leta blong ol konsonant](img/ConsonantLetters.jpg)
+![Letters for Vatlongos consonants](img/ConsonantLetters.jpg)
 
-Tebol ia i soemoat evri konsonant saon wetem leta blo hem mo sam eksampol word.
+This table shows every consonant sound with a letter and some example words.
 
 +----------------------+------------+-------------------------------------------------------------------------------+
-| Saon (IPA)           | Leta       | Eksampol                                                                      |
+| Sound (IPA)           | Letter       | Example                                                                     |
 +======================+============+===============================================================================+
 | p                    | **p**      | **p**at, sa**p**, lasu**pp**ang, taa**pp**in                                  |
 +----------------------+------------+-------------------------------------------------------------------------------+
@@ -301,11 +303,11 @@ Tebol ia i soemoat evri konsonant saon wetem leta blo hem mo sam eksampol word.
 | r, ɾ                 | **r**      | **r**elit, **r**alu, ba**r**, igoxo**r**, xi**r**                             |
 +----------------------+------------+-------------------------------------------------------------------------------+
 
-: Leta blong evri konsonant wetem ol eksampol blo hem
+: Letters for each consonant with examples
 
-### Ol dabol konsonant {#sec-geminateconsonant}
+### Double consonants {#sec-geminateconsonant}
 
-Wan las samting we mi mas eksplenem lo saed blo ol konsonant, hemi abaot taem we yu ripitim wan consonant, mekem se yu gat wan dabol consonant. Taem olsem, i harem olsem wan longfala konsonant nomo, be feswan hemi lo end blo wan silabol, mo seken wan hemi lo stat blo wan niufala sillabol.
+<!--Wan las samting we mi mas eksplenem lo saed blo ol konsonant, hemi abaot taem we yu ripitim wan consonant, mekem se yu gat wan dabol consonant. Taem olsem, i harem olsem wan longfala konsonant nomo, be feswan hemi lo end blo wan silabol, mo seken wan hemi lo stat blo wan niufala sillabol.
 
 Long ol eksampol ia, mi putum wan ful stop \<.\> blo soemaot baondari blo sillabol:
 
@@ -349,40 +351,40 @@ I gat sam moa minimal pair bakagen blo soemaot se dabol konsonant i difren lo si
 
 I soemaot se dabol konsonant i save jenjem mining bigwan, mekem se taem we yumi raet lo Vatlongos i gud blo yusum tufala leta blo spelem ol dabol konsonant, blo mekem sua se mining mo saon blo hem i klia.
 
-Be mi ting se ating samtaem i gat difren rod blo talemaot sam blo ol toktok ia. Ating dabol konsonant i bin lus lo sam toktok, be ating hemi wan jenis we i stap gohed naoia, mekem se sam man i talem wetem dabol konsonant, mo sam man i talem wetem singgel konsonant nomo. Taem olsem yumi save raetem wetem wan leta nomo sipos yumi wantem soemaot pronunciation blo hem we i sot nomo.
+Be mi ting se ating samtaem i gat difren rod blo talemaot sam blo ol toktok ia. Ating dabol konsonant i bin lus lo sam toktok, be ating hemi wan jenis we i stap gohed naoia, mekem se sam man i talem wetem dabol konsonant, mo sam man i talem wetem singgel konsonant nomo. Taem olsem yumi save raetem wetem wan leta nomo sipos yumi wantem soemaot pronunciation blo hem we i sot nomo.-->
 
-## Ol vaol {#sec-vowel}
+## Vowels {#sec-vowel}
 
-Naoia yumi redi blo gohed lo ol sound we oli vaol. Ol vaol oli ol kaen saon we yu no blokem ea lo maot blo yu nating, yu jas jenjem shape blo maot blo yu blo jenjem saon blo hem. From we yu no blokem ol saon ia yu save mekem longtaem, eksampol taem we yu singsing, yu save mekem se ol vaol i longlongwan.
+Now we're ready to look at the vowel sounds. Vowels are sounds that you make without blocking the air in your mouth at all, you just change the shape of your mouth to change the sound of the vowel. Because you don't block these sounds, you can make them last a long time, for example when you're singing, you can stretch out the vowels to be really long.
 
-Lo Vatlongos i gat 6 difren vaol: /a/ /e/ /i/ /o/ /u/ mo /æ/. Hemi mo bitim Bislama we i gat 5, mo tu i mo bitim namba blo ol leta blo vaol \<a\> \<e\> \<i\> \<o\> \<u\>, mekem se i had blo spelem gud evriwan. Be i no fulap olsem English we nomali i gat up to 20 vaol (i depen lo wanwan accent o variety of English).
+In Vatlongos there are 6 different vowels: /a/ /e/ /i/ /o/ /u/ mo /æ/. That's more than Bislama which only has 5, and it's also more than the number of vowel letters in the alphabet, \<a\> \<e\> \<i\> \<o\> \<u\>, which makes it hard to spell all six of them easily. But it's not a lot compared to English, which normally has up to 20 vowels (depending on the accent or variety of English).
 
-Blo mekem ol difren saon blo ol vaol, yu muvum tang blo yu insaed lo maot blo yu.
+To make different vowel sounds, you move your tongue inside your mouth.
 
-Yu save traem harem muvmen ia sipos yu talem saon blo /i/ (saon inside lo *di* 'stap'), afta traem /a/ (saon inside lo *ha*! 'go'), afta ripitim bakagen /i/ /a/ /i/ /a/. Taem we yu talem /i/, bae yu harem se tang blo yu i stap antap mo lo fored blo maot blo yu. Taem we yu talem /a/ tang bae i stap daon mo lo bak blo maot blo yu, mo tu bae i fosem yu blo openem maot blo yu. Hem nao from wanem taem we wan dokta o dentist i wantem luk insaed lo maot blo yu, bae i talem 'say ahhh'.
+You can try to feel this movement if you make the sound of /i/ (the vowel sound in the word *di* 'stay'), and then try making the sound of /a/ (the sound inside of *ha*! 'go'), then repeat them over and over again /i/ /a/ /i/ /a/. When you say /i/, you'll feel that your tongue is up high near the front of your mouth. When you say /a/ your tongue will be down and at the back of your mouth, and it will also force you to open your mouth wider. That's why when a doctor or a dentist wants to look inside your mouth, they'll say 'say ahhh'.
 
-Pija ia i traem soemaot posisen blo tang insaed lo maot blo 6 vaol sound lo Vatlongos.
+This image tries to show the position of the tongue in the mouth for the 6 vowel sounds of Vatlongos.
 
-![Ol vaol](img/Vowels.jpg)
+![Vowels](img/Vowels.jpg)
 
-Wan nara samting we i jenjem saon blo ol vaol hemi position blo lips blo yu. Blo fulap vaol yu no mekem eni samting wetem lips blo yu, oli stap nomol nomo. Be blo tufala vowel ia /o/ mo /u/ yu mas mekem se lips blo yu i raon. Sipos yu traem talem /u/ (saon blo *ut* 'soa') afta /i/ (saon blo *di* 'stap'), afta ripitim /u/ /i/ /u/ /i/, bae yu harem se lips blo yu i stap muv bigwan (mo tu tang i stap antap lo maot be i muv bak, fored, bak, fored).
+Another thing that changes the sound of vowels is the position of your lips. For a lot of vowels you don't do anything special with your lips, they're just normal. But for the two vowels /o/ and /u/ you have to make your lips round. If you try to say /u/ (the sound in *ut* 'shore') and then /i/ (the sound in *di* 'stay'), and then repeat them /u/ /i/ /u/ /i/, you'll feel that your lips are moving a lot (and also your tongue will stay up high in your mouth but move backwards and forwards).
 
-Tebol ia i soemaot posisen blo tang mo lips blo evri vowel.
+This table shows the position of the tongue and lips for each vowel.
 
-| Vaol | Tang         | Lips  |
+| Vowe | Tongue         | Lips  |
 |------|--------------|-------|
-| a    | daon, bak    | nomol |
-| e    | medel, fored | nomol |
-| i    | antap, fored | nomol |
-| o    | medel, bak   | raon  |
-| u    | antap, bak   | raon  |
-| æ    | daon, fored  | nomol |
+| a    | down, back    | normal |
+| e    | middle, forward | normal |
+| i    | high, forward | normal |
+| o    | middle, back   | round  |
+| u    | high, back   | round  |
+| æ    | down, forward  | normal |
 
-: Posisen blo tang mo lips blong mekem ol vaol saon
+: Position of the tongue and lips for each vowel
 
-### Nambasiks vaol æ {#sec-vowel6}
+### The sixth vowel æ {#sec-vowel6}
 
-Yumi luk finis se vowel ia /æ/ yumi mekem wetem tang i stap daon mo fored lo maot blo yu.
+<!--Yumi luk finis se vowel ia /æ/ yumi mekem wetem tang i stap daon mo fored lo maot blo yu.
 
 Be saon ia, i no gat fulap word we i stap lo hem. Lo dictionary database we mi mekem, i gat 103 word nomo we /æ/ i stap lo hem, be i gat araon 2000 we /a/ i stap lo hem, mo araon 1750 we /e/ i stap lo hem. (Be mi save tu se ating i stap lo sam narafala word we mi mestem, sipos yu tingabaot wan word bakagen we i stap lo hem yu talemaot!)
 
@@ -476,11 +478,11 @@ Lo tebol ia mi soemaot sam difren system blo raetem vowel ia, mo mi soemaot eni 
 |                  | *mai* 'rif                    | *ba* 'sakem frut'                     |
 +------------------+-------------------------------+---------------------------------------+
 
-: Ol difren joes blong raetem nambasiks vaol æ, wetem ol eksampol
+: Ol difren joes blong raetem nambasiks vaol æ, wetem ol eksampol -->
 
-### Ol longfala vaol {#sec-longvowel}
+### Long vowels {#sec-longvowel}
 
-Yumi luk finis se i gat 6 vowel lo Vatlongos, we tang i stap lo difren ples lo maot blo yu.
+<!--Yumi luk finis se i gat 6 vowel lo Vatlongos, we tang i stap lo difren ples lo maot blo yu.
 
 Be samtaem tu vowel we i semak i stap tugeta, mo yumi talemaot olsem wan vowel nomo be hemi longfala lelbet.
 
@@ -523,11 +525,11 @@ Nomali, blo *lataapat*, bae yu putum *ti* lo end blo hem tu blo soemaot se hemi 
 
 *latapat ti* 'sam i slip smol' *lataapat ti* 'olgeta i no slip'
 
-Kaen difrens olsem i soemaot se difrens lo saon ia hemi veri important, mo i gud sipos yumi soemaot difrens ia lo spelling tu, wetem dabol letter olsem.
+Kaen difrens olsem i soemaot se difrens lo saon ia hemi veri important, mo i gud sipos yumi soemaot difrens ia lo spelling tu, wetem dabol letter olsem.-->
 
-### Ol vaol mo ol glaed {#sec-glide}
+### Vowels and glides {#sec-glide}
 
-I gat tu vowel saon we i gat difren rod blo talemaot we i dipen lo ol narafala saon lo rod. /i/ samtaem yumi talem olsem \[j\] -- saon we yumi raet witem \<y\> lo English mo Bislama. Mo /u/ samtaem yumi talem olsem \[w\].
+<!--I gat tu vowel saon we i gat difren rod blo talemaot we i dipen lo ol narafala saon lo rod. /i/ samtaem yumi talem olsem \[j\] -- saon we yumi raet witem \<y\> lo English mo Bislama. Mo /u/ samtaem yumi talem olsem \[w\].
 
 Hemi difren lelbet from tufala difren rod blo talem ia oli no tru vowel, but tufala i wan kaen consonant we yumi save talem 'glide' or 'semi vowel' (i.e. haf vaol). Lo English mo Bislama, i gat consonant saon olsem: /j/ we yumi raetem witem \<y\>, e.g. *yes, yellow*, mo /w/ \<w\>, e.g. *wota*, *woman*. Be lo Vatlongos tufala saon ia i jas wan difren rod blo talemaot tufala vowel /i/ mo /u/. Nomali, taem we i gat wan vowel yu mekem wan niufala syllable, be taem we i saon olsem \[j\] mo \[w\], hemi jas stap insaed lo wan narafala syllable, hemi no wan niufala syllable.
 
@@ -580,13 +582,13 @@ Hemia wan pattern w Parker i diskraeb lo article blo hem ['Southeast Ambrym Phon
 
 /u/ hemi kam olsem \[w\] taem we /u/ i folem wan bak vowel: /a/ o /o/, lo sem silabol.
 
-+----------------------+---------------------+---------------------+
-| speling              | saon                | mining              |
-+----------------------+---------------------+---------------------+
-| *hau*                | \[haw\]             | 'fulap'             |
-+----------------------+---------------------+---------------------+
-| *atou*               | \[atow\]            | 'woman'             |
-+----------------------+---------------------+---------------------+
++---------------------+--------------------+--------------------+
+| speling             | saon               | mining             |
++---------------------+--------------------+--------------------+
+| *hau*               | \[haw\]            | 'fulap'            |
++---------------------+--------------------+--------------------+
+| *atou*              | \[atow\]           | 'woman'            |
++---------------------+--------------------+--------------------+
 
 Mo tu /u/ hemi kam olsem \[w\] taem we /u/ i kam bifo lo /i/, /e/ mo /o/ (non-low vowels), lo sem syllable:
 
@@ -610,4 +612,4 @@ Mo wan narafala exception bakagen hemi se sipos hemi kam bifo /i/ /e/ o /o/, be 
 |---------|----------|---------|
 | speling | saon     | mining  |
 | *tuei*  | \[tuej\] | 'finis' |
-| *nuen*  | \[nuen\] | 'daeva' |
+| *nuen*  | \[nuen\] | 'daeva' |-->
