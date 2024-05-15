@@ -11,31 +11,23 @@ website:
     background: primary
     search: true
     left:
-      - href: index.qmd
-        text: "Hom"
       - href: about.qmd
-        text: "Abaot"
       - href: grammar.qmd
-        text: "Gramma"
         
   sidebar:
-    - title: "Gramma"
-      style: "docked"
+    - style: "docked"
       background: light
       contents:
         - grammar.qmd
         - href: phonology.qmd
-          text: Saon mo speling
           
-    - title: "Hom"
-      style: "docked"
+    - style: "docked"
       background: light
       contents:
         - index.qmd
         
         
-    - title: "Abaot"
-      style: "docked"
+    - style: "docked"
       background: light
       contents:
         - about.qmd

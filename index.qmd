@@ -14,4 +14,5 @@ Website ia hemi wan Quarto website.
 
 Blong lanem moa long saed blong Quarto, folem link ia: <https://quarto.org/docs/websites>.
 
+Tu mi yusum [babelquarto](https://docs.ropensci.org/babelquarto/) blo mekem websaet ia i gat tu lanwis blo hem (English mo Bislama).
 

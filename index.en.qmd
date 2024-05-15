@@ -7,3 +7,5 @@ This website is for resources about Vatlongos language, spoken in Southeast Ambr
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+I've also used [babelquarto](https://docs.ropensci.org/babelquarto/) to create a multilingual website (in English and Bislama).
