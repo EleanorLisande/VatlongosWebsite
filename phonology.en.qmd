@@ -261,11 +261,11 @@ Now we've covered the fifteen consonant sounds of Vatlongos.
 
 This image shows the symbols of the consonant sounds in the International Phonetic Alphabet (IPA):
 
-![Vatlongos consonants in IPA](img/IPAConsonants.jpg)
+![Vatlongos consonants in IPA](img/IPAConsonantsEn.jpg)
 
 This image shows the letters for writing these sounds. In this image I'm just showing one option for each sounds, but as we've already discussed, there are different ways to spell some sounds, and different decisions to make about orthography that are up to Vatlongos speakers to decide when they write Vatlongos. Whenever you write something in Vatlongos, like a text, a post on Facebook, a letter or a story, it's like a vote to show your choice about these spelling questions. So if you don't like the system of spelling here, tell me and also show the rest of the community what your preference is when you're writing in Vatlongos.
 
-![Letters for Vatlongos consonants](img/ConsonantLetters.jpg)
+![Letters for Vatlongos consonants](img/ConsonantLettersEn.jpg)
 
 This table shows every consonant sound with a letter and some example words.
 

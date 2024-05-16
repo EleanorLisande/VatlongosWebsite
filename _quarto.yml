@@ -13,6 +13,7 @@ website:
     left:
       - href: about.qmd
       - href: grammar.qmd
+      - href: stories.qmd
         
   sidebar:
     - style: "docked"
@@ -25,12 +26,19 @@ website:
       background: light
       contents:
         - index.qmd
+        - href: grammar.qmd
         
         
     - style: "docked"
       background: light
       contents:
         - about.qmd
+    
+    - style: "docked"
+      background: light
+      contents:
+        - stories.qmd
+        - href: 20141027a_n01m001.qmd
         
 format:
   html:
