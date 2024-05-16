@@ -4,6 +4,12 @@ title: "Vatlongos website"
 
 This website is for resources about Vatlongos language, spoken in Southeast Ambrym, Vanuatu.
 
+## Sections {.unnumbered .unlisted}
+
+[Grammar](grammar.qmd)
+[Stories](stories.qmd)
+
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

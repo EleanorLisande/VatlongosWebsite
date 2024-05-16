@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://eleanorlisande.github.io/VatlongosWebsite/story20141027a.html</loc>
+    <lastmod>2024-05-16T09:57:12.608Z</lastmod>
+  </url>
+  <url>
     <loc>https://eleanorlisande.github.io/VatlongosWebsite/phonology.html</loc>
-    <lastmod>2024-05-15T08:50:00.947Z</lastmod>
+    <lastmod>2024-05-16T09:03:14.362Z</lastmod>
   </url>
   <url>
     <loc>https://eleanorlisande.github.io/VatlongosWebsite/grammar.html</loc>
@@ -14,6 +18,10 @@
   </url>
   <url>
     <loc>https://eleanorlisande.github.io/VatlongosWebsite/index.html</loc>
-    <lastmod>2024-05-15T09:09:56.019Z</lastmod>
+    <lastmod>2024-05-16T10:05:37.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eleanorlisande.github.io/VatlongosWebsite/stories.html</loc>
+    <lastmod>2024-05-16T10:09:18.616Z</lastmod>
   </url>
 </urlset>
