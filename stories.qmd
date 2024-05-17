@@ -4,6 +4,12 @@ title: "Ol Stori"
 
 Seksen ia hemi soem ol stori. Sam oli stori we man i bin talem, sam oli stori we man i bin raetem. Sipos i gat, mi inkludem link long ol rikoding o video. Hemi nomo ol stori we man i bin agri blong serem long intanet.
 
+## Buk blo lan blo rid
+
+[Alfabet praema](primer.qmd)
+
 ## Stori blong ol animol
 
 [Asu xal oum - Rat mo crab. Lik Simelum.](story20141027a.qmd)
+
+

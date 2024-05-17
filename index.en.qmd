@@ -7,6 +7,7 @@ This website is for resources about Vatlongos language, spoken in Southeast Ambr
 ## Sections {.unnumbered .unlisted}
 
 [Grammar](grammar.qmd)
+
 [Stories](stories.qmd)
 
 
