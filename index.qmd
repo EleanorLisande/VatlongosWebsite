@@ -9,6 +9,7 @@ Naoia men risos hemi wan buk blo gramma we mi stap apdetem.
 ## Ol seksen {.unnumbered .unlisted}
 
 [Gramma](grammar.qmd)
+
 [Ol stori](stories.qmd)
 
 Website ia hemi wan Quarto website.
