@@ -580,13 +580,13 @@ Hemia wan pattern w Parker i diskraeb lo article blo hem ['Southeast Ambrym Phon
 
 /u/ hemi kam olsem \[w\] taem we /u/ i folem wan bak vowel: /a/ o /o/, lo sem silabol.
 
-+----------------------+---------------------+---------------------+
-| speling              | saon                | mining              |
-+----------------------+---------------------+---------------------+
-| *hau*                | \[haw\]             | 'fulap'             |
-+----------------------+---------------------+---------------------+
-| *atou*               | \[atow\]            | 'woman'             |
-+----------------------+---------------------+---------------------+
++---------------------+--------------------+--------------------+
+| speling             | saon               | mining             |
++---------------------+--------------------+--------------------+
+| *hau*               | \[haw\]            | 'fulap'            |
++---------------------+--------------------+--------------------+
+| *atou*              | \[atow\]           | 'woman'            |
++---------------------+--------------------+--------------------+
 
 Mo tu /u/ hemi kam olsem \[w\] taem we /u/ i kam bifo lo /i/, /e/ mo /o/ (non-low vowels), lo sem syllable:
 
@@ -612,4 +612,98 @@ Mo wan narafala exception bakagen hemi se sipos hemi kam bifo /i/ /e/ o /o/, be 
 | *tuei*  | \[tuej\] | 'finis' |
 | *nuen*  | \[nuen\] | 'daeva' |
 
+Saon blo /i/ mo /u/ we i kam olsem \[j\] mo \[w\] hemi wan narafala kwestun long saed blo speling. Bae yumi soemaot difren saon ia o no? I gat tu joes:
 
+a\) taem we yumi raetem tufala saon ia /i/ mo /u/, bae yumi yusum symbol blo vowel \<i\> mo \<u\> nomo, i no mata sipos saon i olsem \[i\] \[j\] \[u\] or \[w\]. Hemi gud from hemi reflect se lo Vatlongos, hemi no jensem mining taem sipos yu talem \[j\] blo /i/ or \[w\] blo /u/. Hemi minim se spelling bae i semak evritaem blo wanwan word, nomata we yu talem slo o hariap.
+
+b) taem we yumi raetem tufala saon ia /i/ mo /u/ yu raetem \<i\> mo \<u\> taem we saon hemi wan vowel soan, be yusum \<y\> mo \<w\> taem we saon olsem wan glide. Olsem bae hemi semak lo ol saon blo English mo Bislama, mekem se ating bae i save helpem ol pikinini taem oli gohed blo rid mo raet lo English mo Bislama. Be problem se i gat sam word we i gat tu rod blo talem, mekem se bae i mas gat tu rod blo spelem tu sipos yumi yusum sistem ia.
+
+|          |                        |              |               |                |
+|----------|------------------------|--------------|---------------|----------------|
+| Men soan |  Difren rod blo talem  |  Speling (a) |  Speling (b)  | Mining         |
+| /mæakue/ | \[mæakwe\]             | mèakue       | mèakwe        | \'moning\'     |
+| /hui/    | \[hu.i\] \[hwi\]       | hui          | hui / hwi     | \'skrasem\'    |
+| /anien/  | \[a.ni.en\] \[a.njen\] | anien        | anien / anyen | \'kakae\'      |
+| /poue/   | \[po.we\]              | poue         | powe          | \'hemi karem\' |
+| /uit/    | \[wit\]                | uit          | wit           | \'nawita\'     |
+| /vuei/   | \[vwej\]               | vuei         | vwey          | \'hoknaet\'    |
+| /hau/    | \[haw\]                | hau          | haw           | \'fulap\'      |
+
+Wan narafala problem blo raetem /au/ \[aw\], hemi se lo Bislama, /au/ mo /ao/ i harem semak nomo, mo nomali yumi raetem \<ao\> blo saon ia. Mi no sua sipos i semak lo Vatlongos naoia or nogat.
+
+Mi wantem save sipos yu talem *daxao* \'hemi karem frut (olsem wan tri)\' or *daxau* \'hemi burn\', bae yu save harem difrens lo hem or tufala i semak nomo? O sipos mi talem *masao* \'mifala i luk\' or *masau* \'evening star\'? O sipos mi talem *musao* \'yufala i luk\' o *musau* \'hemi appear\'? Sipos yu gat wan tingting long kwestun ai, traem talemaot lo mi!
+
+Mo tu lo Bislama /ai/ mo /ae/ i harem semak nomo, mo nomali yumi raetem \<ae\> blo saon ia. Mi no sua sipos i semak lo Vatlongos naoia o nogat. Mi wantem save sipos yu talem *haen* \'go insaed\' or *hain* \'kastom\', bae yu save harem difrens lo hem o tufala i semak nomo? Narafala dabol olsem hemi *sae* \'blong olgeta\', or *Sai* \'nem blo village\'.
+
+From samtaem man i folem spelling blo Bislama, ating fulap taem ol raetem /ai/ mo /au/ oli spel olsem \<ae\> mo \<ao\>. Be mi no sua sipos hemi wan tru difrens lo Vatlongos, or lo Vatlongos saon i semak nomo olsem Bislama. Sipos olsem ating i nomata sipos yumi folem \<ai\> mo \<au\> or \<ae\> mo \<ao\>, i stap lo yumi nomo. Sipos yu gat eni tingting lo kwestun, talemaot lo mi!
+
+## Ol minimal pea
+
+Naoia we yumi bin luk long evri soan blo Vatlongos, yumi bin luk se sam saon we yumi harem se hemi wan saon nomo lo Vatlongos, taem we yu lisen gud lo hem i gat sam difren rod blo talem. Be from we yumi harem se ol difrens ia i no jenjem mining blo word, yumi save talem se lo Vatlongos, ol difren saon ia i olsem wan saon nomo lo lanwis ia. Lo linguistics mifala talemaot ol kaen saon olsem, we insaed lo wan lanwis hemi wan difren saon, \'phoneme\'.
+
+Blo save sua se ol difren saon ia we yumi talemaot hemi wan phoneme hem wan, mo hemi no wan narafala rod blo talem wan difren phoneme, yumi mas faenem tufala word we i gat wan difrens nomo, mo difrens hemi tufala saon ia. Lo linguistics mifala singaot tufala word olsem wan \'minimal pair\'. Hemi from we hemi wan pair blo word we difrens hemi minimal.
+
+Yumi mi luk sam minimal pair finis taem we yumi lukluk lo evidence se nambasiks vaol /æ/, hemi wan difren vaol phoneme long Vatlongos. Sipos yumi talem /^m^be/ *be* hemi minim 'hemi go long' or 'hemi ('to be'). Be sipos yumi jenjem wan vaol ia nomo long /^m^bæ/ *bà,* naoia mining i jenj long 'hemi go' nomo. Minimal pair ia i soemaot se /æ/ hemi wan difren phoneme long /e/ - tufala saon ia i tufala phoneme, i no tufala rod blo talem wan phoneme nomo.
+
+Be wetem saon ia \[j\], we hemi olsem saon blong \<y\> long Bislama mo English, yumi save jekem se hemi wan difren rod blo talem /i/ nomo, from sipos yumi talem *anien* olsem /a.ni.en/ o /an.jen/ (we i saon olsem *anyen*), mining i no jenis - hemi tu difren rod blong talemaot mining ia 'kakae' nomo.
+
+Mi gat plan blo soemaot minimal pair blo ol difren phoneme long Vatlongos, be naoia mi stat wetem ol minimal pair blo soemaot se /r/ hemi difren long evri narafala konsonant phoneme long Vatlongos:
+
++--------------------+--------------------------------+
+| Leta blong phoneme | Minimal pea wetem /r/          |
++--------------------+--------------------------------+
+| p                  | *pat* \'slip\',                |
+|                    |                                |
+|                    | *rat* \'aot\'                  |
++--------------------+--------------------------------+
+| t                  | *tat* \'jas stap\',            |
+|                    |                                |
+|                    | *rat* \'aot\'                  |
++--------------------+--------------------------------+
+| k                  | *kat* \'finis\'                |
+|                    |                                |
+|                    | *rat* \'aot\'                  |
++--------------------+--------------------------------+
+| b                  | *bong* \'hemi swolem\'         |
+|                    |                                |
+|                    | *rong* \'bed\'                 |
++--------------------+--------------------------------+
+| d                  | *dat* \'hemi jas stap\',       |
+|                    |                                |
+|                    | *rat* \'aot\'                  |
++--------------------+--------------------------------+
+| g                  | *gat* \'hemi baetem\',         |
+|                    |                                |
+|                    | *rat* \'aot\'                  |
++--------------------+--------------------------------+
+| m                  | *ratel* \'yumi sam\'           |
+|                    |                                |
+|                    | *matel* \'blong olgeta sam\'   |
++--------------------+--------------------------------+
+| n                  | *ratel* \'yumi sam\'           |
+|                    |                                |
+|                    | *natel* \'blo olgeta sam\'     |
++--------------------+--------------------------------+
+| ng                 | *ngas* \'baetem\'              |
+|                    |                                |
+|                    | *ras* \'mestem\'               |
++--------------------+--------------------------------+
+| v                  | *vat* \'head\', *rat* \'aot\'  |
++--------------------+--------------------------------+
+| s                  | *satel* \'blo olgeta sam\'     |
+|                    |                                |
+|                    | *ratel* \'yumi sam\'           |
++--------------------+--------------------------------+
+| x                  | *xat* \'kilim\', *rat* \'aot\' |
++--------------------+--------------------------------+
+| h                  | *hat* \'stone\', *rat* \'out\' |
++--------------------+--------------------------------+
+| l                  | *las* \'kliaem\'               |
+|                    |                                |
+|                    | *ras* \'mestem\'               |
++--------------------+--------------------------------+
+
+## Ol saon we i aot long Bislama mo English
+
+I gat sam sound we i no stap insaed lo Vatlongos, be taem we yumi kopiaot sam word blo Bislama o English yumi stap yusum taem we yumi toktok Vatlongos tu. Taem we yumi kopi wan toktok blo Bislama, yumi save decide blo holemtaet saon blo Bislama, o yumi save tanem saon i go lo wan saon blo yumi lo Vatlongos. Nomali yumi luk ol saon we yumi tanem olsem i stap insaed lo ol toktok blo Bislama we ol pupu bifo i bin kopiaot longtaem finis, long taem we
+ating i no gat tumas man we oli save gud ol saon blo Bislama.
