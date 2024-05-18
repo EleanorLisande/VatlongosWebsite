@@ -16,36 +16,50 @@ website:
       - href: stories.qmd
         
   sidebar:
-    - style: "docked"
+    - title: "Gramma" 
+      style: "docked"
       background: light
       contents:
         - grammar.qmd
-        - href: phonology.qmd
-          
-    - style: "docked"
-      background: light
-      contents:
-        - index.qmd
-        - href: grammar.qmd
-        
-        
-    - style: "docked"
-      background: light
-      contents:
-        - about.qmd
+        - phonology.qmd
     
-    - style: "docked"
+    - title: "Grammar" 
+      style: "docked"
+      background: light
+      contents:
+        - grammar.en.qmd
+        - phonology.en.qmd
+    
+    - title: "Ol Stori"
+      style: "docked"
       background: light
       contents:
         - stories.qmd
-        - href: 20141027a_n01m001.qmd
+        - section: "Lan blo rid"
+          contents:
+            - primer.qmd
+        - section: "Stori blong ol animol"
+          contents: 
+            - story20141027a.qmd
+    
+    - title: "Stories"
+      style: "docked"
+      background: light
+      contents:
+        - stories.en.qmd
+        - section: "Learn to read"
+          contents:
+            - primer.en.qmd
+        - section: "Animal stories"
+          contents: 
+            - story20141027a.en.qmd
         
 format:
   html:
     theme: sandstone
     css: styles.css
     toc: true
-
+ 
 editor: visual
 
 babelquarto:
