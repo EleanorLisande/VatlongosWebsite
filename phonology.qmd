@@ -32,11 +32,11 @@ Japta ia bae i tokabaot ol saon blo Vatlongos, mo sam tingting lo saed blo hao b
 
 Japta ia bae i gat fulap toktok we i aot lo eria blo linguistics we oli talemaot 'phonology'. Bae mi traem yusum Bislama we i posibol, be samtaem bae mi mas yusum sam toktok blo Inglis mo linguistics, mo bae mi traem explenem gud.
 
-Tufala toktok we oli impoten blo toktok lo saon hemi consonant mo vowel. Ol consonants oli ol saon we yu blokem air lo maot blo yu. Mo ol vowels oli ol saon we ea i jas kamaot nomo -- yu stap jenisem sep blo hem witem maot mo tang blo yu, be yu no blokem hem.
+Tufala toktok we oli impoten blo toktok lo saon hemi konsonant (consonant) mo vaol (vowel). Ol konsonant oli ol saon we yu blokem air lo maot blo yu. Mo ol vaol oli ol saon we ea i jas kamaot nomo -- yu stap jenisem sep blo hem witem maot mo tang blo yu, be yu no blokem hem.
 
-Tu bae yumi yusum wan special alphabet we ol linguist i talemaot 'International Phonetic Alphabet' (IPA). Sipos yu save ol symbol ia, bae yu andastandem gud ol saon blo evri lanwis lo wol. Taem we mi raetem wan leta insaed lo ol /slash/ o \[skwea bracket\], hemi minim se hemi wan IPA symbol.
+Tu bae yumi yusum wan spesel alfabet we ol linguist i talemaot 'International Phonetic Alphabet' (IPA). Sipos yu save ol simbol ia, bae yu andastandem gud ol saon blo evri lanwis lo wol. Taem we mi raetem wan leta insaed lo ol /slash/ o \[skwea bracket\], hemi minim se hemi wan IPA symbol.
 
-Bae yumi tokbaoat ol consonant festaem, afta ol vowel, mo soemaot from wanem oli ol difdifren saon lo Vatlongos. Neks bae yumi tokabaot ol saon blo Bislama mo Inglis we i save kam insaed lo Vatlongos, mo laswan bae yumi tokabaot hao ol saon i save kam tugeta insaed lo ol syllable, we hemi olsem wan bit insaed lo lanwis.
+Bae yumi tokabaot ol konsonant festaem, afta ol vaol, mo soemaot from wanem oli ol difdifren saon lo Vatlongos. Neks bae yumi tokabaot ol saon blo Bislama mo Inglis we i save kam insaed lo Vatlongos, mo laswan bae yumi tokabaot hao ol saon i save kam tugeta insaed lo ol silabol (syllable), we hemi olsem wan bit insaed lo lanwis.
 
 ## Ol konsonant {#sec-consonant}
 
@@ -104,7 +104,7 @@ Ating yumi saonem ol saon ia klosap i semak lo English nomo, be wan samting we h
 
 ### Ol stap blo nos {#sec-prenasalisedstop}
 
-Lo seksen ia bae mi tokabaot 3 consonants ia /mb/ /nd/ /ŋɡ/.
+Lo seksen ia bae mi tokabaot 3 consonants ia /^m^b/ /^n^d/ /^ŋ^ɡ/.
 
 Ol saon ia klosap i olsem ol stop (/p/ /t/ /k/) we yumi tokabaot finis. Yumi blokem ea lo maot lo ol sem ples nomo, afta yu letemaot ea blo mekem wan bigfala saon. Be mein difrens hemi se yumi putum wan smol saon olsem ol saon blo nos (/m/ /n/ /ŋ/) i kam bifo lo hem. Ol saon ia i stat witem wan saon blo nos we yumi mekem lo sem ples nomo lo stop we i kam bihaen: lips o fored lo tang o bihaen lo tang. Lo linguistics mifala i singaotem ol saon olsem 'prenasalised stops'.
 
@@ -116,14 +116,14 @@ Wan samting bakagen we i difren lo ol saon ia sipos yu komparem lo ol stop nomo 
 
 Blo raetem ol saon ia i gat sam debate i stap lo hem. From we yumi no gat separate saon blo /b/ /d/ /g/ lo Vatlongos, yumi save yusum trifala letter ia \<b\> \<d\> \<g\> blo raetem trifala saon ia /^m^b/ /^n^d/ /^ŋ^ɡ/. Hemi stret lo ideal rule we ol linguist i talem lo wan spelling system, se bae i gat wan saon lo wan leta. Olsem i gud from i soemaot se ol saon ia i wan saon nomo lo Vatlongos: i no olsem *manggo* lo Bislama (mo Inglis tu), we saon olsem i kamaot lo tu difren saon: /ŋ/ \<ng\>, afta /g/, \<g\>.
 
-Be sam man bae oli wantem raetem ol saon ia \<mb\> \<nd\> \<ngg\> blo soemaot strong se yu mas talem saon blo nos lo stat blo ol saon ia. Tingting ia tu i gud from ating i mo klosap lo Bislama mo English taem we pikinini i gohed blo lan blo rid mo raet lo Bislama mo English (be English spelling i no gud nating lo problem ia from fulap taem i spelem /ŋɡ/ i olsem /ŋ/ nomo, e.ɡ. *finger* i luk olsem *singer* be saon i difren). Problem nomo se i mekem se yumi usum 2 or 3 letter blo wan saon nomo lo Vatlongos, mo hemi gat wan implication se /b/ /d/ /g/ i ol separate simple saon, be Vatlongos i no gat ol saon olsem.
+Be sam man bae oli wantem raetem ol saon ia \<^m^b\> \<nd\> \<ngg\> blo soemaot strong se yu mas talem saon blo nos lo stat blo ol saon ia. Tingting ia tu i gud from ating i mo klosap lo Bislama mo English taem we pikinini i gohed blo lan blo rid mo raet lo Bislama mo English (be English spelling i no gud nating lo problem ia from fulap taem i spelem /ŋɡ/ i olsem /ŋ/ nomo, e.ɡ. *finger* i luk olsem *singer* be saon i difren). Problem nomo se i mekem se yumi usum 2 or 3 letter blo wan saon nomo lo Vatlongos, mo hemi gat wan implication se /b/ /d/ /g/ i ol separate simple saon, be Vatlongos i no gat ol saon olsem.
 
-Insaed lo wok we mi bin mekem finis mi bin yusum \<b\> \<d\> \<g\> nomo. Taem we yumi mekem wan poll long 2020 hemi klos lelbet, be mo man i vot blo yusum \<mb\> \<nd\> \<ngg\>. Be mi luk se lo Baebol long Vatlongos nomali oli yusum \<b\> \<d\> \<g\> nomo, mo taem we mi luk raeting blong fulap yangfala long projek blo ol yangfala lo 2023, fulap oli yusum \<b\> \<d\> \<g\> nomo. So naoia bae mi gohed blo yusum \<b\> \<d\> \<g\> nomo, be mi save se hemi wan kwestun yet we hemi stap lo ol manples nomo blo mekem joes blo yufala taem we yu stap raet lo Vatlongos!
+Insaed lo wok we mi bin mekem finis mi bin yusum \<b\> \<d\> \<g\> nomo. Taem we yumi mekem wan poll long 2020 hemi klos lelbet, be mo man i vot blo yusum \<mb\> \<nd\> \<ngg\>. Be mi luk se lo Baebol long Vatlongos nomali oli yusum \<b\> mo \<d\>  be \<g\> tu, mo taem we mi luk raeting blong fulap yangfala long projek blo ol yangfala lo 2023, fulap oli yusum \<b\> \<d\> \<g\> nomo. So naoia bae mi gohed blo yusum \<b\> \<d\> \<g\> nomo, be mi save se hemi wan kwestun yet we hemi stap lo ol manples nomo blo mekem joes blo yufala taem we yu stap raet lo Vatlongos!
 
-| Sound | Letter     | Examples                         |
+| Saon | Leta     | Eksampol                         |
 |-------|------------|----------------------------------|
 | ᵐb    | **b**, mb  | **b**a, **b**arang, te**b**en    |
-| ⁿd    | **d**, nd  | *d*i, *d*oxol, *d*up, re*d*emien |
+| ⁿd    | **d**, nd  | **d**i, **d**oxol, **d**up, re**d**emien |
 | ᵑɡ    | **g**, ngg | **g**ur, **g**ehik, i**g**ak     |
 
 : Leta blong ol stop blo nos mo ol eksampol
