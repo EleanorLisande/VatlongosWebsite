@@ -127,7 +127,7 @@ In the work I\'ve done before I\'ve just used \<b\> \<d\> \<g\>. When we did a p
 | Sound | Letter     | Examples                         |
 |-------|------------|----------------------------------|
 | ᵐb    | **b**, mb  | **b**a, **b**arang, te**b**en    |
-| ⁿd    | **d**, nd  | *d*i, *d*oxol, *d*up, re*d*emien |
+| ⁿd    | **d**, nd  | **d**i, **d**oxol, **d**up, re**d**emien |
 | ᵑɡ    | **g**, ngg | **g**ur, **g**ehik, i**g**ak     |
 
 : Letters for prenasalised stops with examples.
